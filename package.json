@@ -1,0 +1,17 @@
+{
+  "name": "employee-payroll-app",
+  "version": "1.0.0",
+  "description": "Employee Payroll App for maintaining Employee details",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "datta",
+  "license": "ISC"
+}
