@@ -4,8 +4,10 @@
   "description": "Employee Payroll App for maintaining Employee details",
   "main": "server.js",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
-    "mongoose": "^5.13.3"
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
   },
   "devDependencies": {},
   "scripts": {

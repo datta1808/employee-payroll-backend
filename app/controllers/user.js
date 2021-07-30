@@ -1,6 +1,7 @@
 const service = require("../services/user.js");
 
 class UserController {
+  
   registerUser = (req, res) => {
     try {
       // Object

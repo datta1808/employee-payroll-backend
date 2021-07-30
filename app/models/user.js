@@ -25,7 +25,11 @@ const userSchema = mongoose.Schema(
   }
 );
 
+
+// createing a collection & assigning it to a constant
+// collection name should be always singular
 const userRegister = mongoose.model("RegisterUser", userSchema);
+
 
 class Registration {
   // new user
@@ -52,6 +56,18 @@ class Registration {
           });
     }
   };
+
+   // function for user login
+   loginUser(userCredentials, callback) {
+    userDataModel.findOne(
+      { email: userCredentials.email },
+      (err, data) => {
+        if (err) return callback(err, null);
+        else if (!data) return callback('User not found with email', null);
+        return callback(null, data);
+      }
+    );
+  }
 }
 
 module.exports = new Registration();
