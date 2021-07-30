@@ -2,8 +2,11 @@ module.exports = (app) => {
 
     const userController = require('../controllers/user');
 
-    //To register a new user
+    // register new user
     app.post('/register', userController.registerUser);
+
+    // user login
+    app.post('/login', userController.loginUser);
 
 //     // Create a new Note
 //     app.post('/employees', employees.create);

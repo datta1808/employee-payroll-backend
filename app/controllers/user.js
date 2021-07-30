@@ -1,7 +1,8 @@
 const service = require("../services/user.js");
 
 class UserController {
-  
+
+  // user registration
   registerUser = (req, res) => {
     try {
       // Object
@@ -13,7 +14,7 @@ class UserController {
       };
 
       // passing the above object as an argument to the registerNewEmployee Method
-      service.registerNewEmployee(newUser, (err, data) => {
+      service.registerNewUser(newUser, (err, data) => {
         if (err) {
           res.status(404).send({
             success: false,
@@ -34,6 +35,23 @@ class UserController {
       });
     }
   };
+
+  // user login
+  loginUser(req, res) {
+    const userCredintials = {
+      email: req.body.email,
+      password: req.body.password,
+    };
+
+    // calling the login method of service layer
+    service.login(userCredintials, (err, data) => {
+      return err
+        ? res
+            .status(500)
+            .send({ message: err.message || 'Some error occurred!' })
+        : res.status(200).send(data);
+    });
+  }
 }
 
 module.exports = new UserController();

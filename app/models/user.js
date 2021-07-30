@@ -29,16 +29,14 @@ const userSchema = mongoose.Schema(
   }
 );
 
-
+// 'pre' acts as a middleware between userSchema & save() method
 userSchema.pre('save', function (next) {
 
   bcrypt.hash(this.password, saltRounds, (err, hashedPassword) => {
     if (err) return next(err);
 
-    //assigning hashed password to the object
+    //assigning hashed password again to the current password
     this.password = hashedPassword;
-
-    //re-routing to the next middleware
     next();
   });
 });
@@ -76,8 +74,8 @@ class Registration {
   };
 
    // function for user login
-   loginUser(userCredentials, callback) {
-    userDataModel.findOne(
+   loginEmp(userCredentials, callback) {
+    userRegister.findOne(
       { email: userCredentials.email },
       (err, data) => {
         if (err) return callback(err, null);
