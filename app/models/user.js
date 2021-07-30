@@ -1,5 +1,9 @@
 const mongoose = require("mongoose");
 
+const bcrypt = require('bcrypt');
+
+const saltRounds = 10;
+
 const userSchema = mongoose.Schema(
   {
     firstName: {
@@ -24,6 +28,20 @@ const userSchema = mongoose.Schema(
     timestamps: true,
   }
 );
+
+
+userSchema.pre('save', function (next) {
+
+  bcrypt.hash(this.password, saltRounds, (err, hashedPassword) => {
+    if (err) return next(err);
+
+    //assigning hashed password to the object
+    this.password = hashedPassword;
+
+    //re-routing to the next middleware
+    next();
+  });
+});
 
 
 // createing a collection & assigning it to a constant
