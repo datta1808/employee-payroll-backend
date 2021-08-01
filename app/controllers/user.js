@@ -1,10 +1,24 @@
 const service = require("../services/user.js");
 
+//Importing middle ware to validate schema (joi validator)
+const { validateInput } = require('../middleware/userValidation.js');
+
 class UserController {
 
-  // user registration
-  registerUser = (req, res) => {
-    try {
+      //user registration
+      registerUser = (req, res) => {
+        try {
+          //validation
+          const userInputValidation = validateInput.validate(req.body);
+          if (userInputValidation.error) {
+            return res.status(400).send({
+              success: false,
+              message: userInputValidation.error.details[0].message,
+              data: req.body,
+            });
+          }
+    
+
       // Object
       const newUser = {
         firstName: req.body.firstName,
