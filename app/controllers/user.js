@@ -19,7 +19,7 @@ class UserController {
           }
     
 
-      // Object
+      // Object to get user input
       const newUser = {
         firstName: req.body.firstName,
         lastName: req.body.lastName,
@@ -29,19 +29,18 @@ class UserController {
 
       // passing the above object as an argument to the registerNewEmployee Method
       service.registerNewUser(newUser, (err, data) => {
-        if (err) {
-          res.status(404).send({
-            success: false,
-            message: err.message || "Some error occurred while adding user",
-          });
-        } else {
-          res.status(201).send({
-            success: true,
-            message: "User registered successfully",
-            data: data,
-          });
-        }
-      });
+        return err
+           ? res.status(500).send({
+               success: false,
+               message:
+                 err.message || 'Some error occurred while adding user',
+             })
+           : res.status(201).send({
+               success: true,
+               message: 'User registered successfully',
+               data: data,
+             });
+       });
     } catch (err) {
       return res.status(500).send({
         success: false,
@@ -52,18 +51,24 @@ class UserController {
 
   // user login
   loginUser(req, res) {
-    const userCredintials = {
+    const userCredentials = {
       email: req.body.email,
       password: req.body.password,
     };
-
-    // calling the login method of service layer
-    service.login(userCredintials, (err, data) => {
-      return err
-        ? res
-            .status(500)
-            .send({ message: err.message || 'Some error occurred!' })
-        : res.status(200).send(data);
+    
+    // calling a function to login employee
+    service.userLogin(userCredentials, (err, data) => {
+      if (err) {
+        res.status(400).send({ 
+          success: false, 
+          message: err 
+        })
+      } else {
+         res.status(200).send({ 
+           success: true, 
+           message: 'Login successful', data: data 
+          });
+      }
     });
   }
 }

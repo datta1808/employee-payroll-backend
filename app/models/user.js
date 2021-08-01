@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const bcrypt = require('bcrypt');
+const bcrypt = require("bcrypt");
 
 const saltRounds = 10;
 
@@ -30,22 +30,18 @@ const userSchema = mongoose.Schema(
 );
 
 // 'pre' acts as a middleware between userSchema & save() method
-userSchema.pre('save', function (next) {
-
+userSchema.pre("save", function (next) {
   bcrypt.hash(this.password, saltRounds, (err, hashedPassword) => {
     if (err) return next(err);
-
     //assigning hashed password again to the current password
     this.password = hashedPassword;
     next();
   });
 });
 
-
 // createing a collection & assigning it to a constant
 // collection name should be always singular
 const userRegister = mongoose.model("RegisterUser", userSchema);
-
 
 class Registration {
   // new user
@@ -66,23 +62,21 @@ class Registration {
         return callback(null, data);
       });
     } catch (err) {
-        return res.status(500).send({
-            success: false,
-            message: err.message || "Some error occurred!",
-          });
+      return res.status(500).send({
+        success: false,
+        message: err.message || "Some error occurred!",
+      });
     }
   };
 
-   // function for user login
-   loginEmp(userCredentials, callback) {
-    userRegister.findOne(
-      { email: userCredentials.email },
-      (err, data) => {
-        if (err) return callback(err, null);
-        else if (!data) return callback('User not found with email', null);
-        return callback(null, data);
-      }
-    );
+  // function for user login
+  //To login
+  loginUser(clientCredentials, callback) {
+    userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
+      if (err) return callback(err, null);
+      else if (!data) return callback("User not found with email", null);
+      return callback(null, data);
+    });
   }
 }
 

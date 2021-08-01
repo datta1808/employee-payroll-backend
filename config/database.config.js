@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
 exports.databaseConnection = () => {
-    
   mongoose.Promise = global.Promise;
 
   // Connecting to the database

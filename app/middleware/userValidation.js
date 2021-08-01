@@ -13,11 +13,7 @@ const validateInput = Joi.object({
     .pattern(new RegExp("^[A-Z]{1}[a-z]{1,30}"))
     .required(),
   email: Joi.string()
-    .pattern(
-      new RegExp(
-        "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:.[a-zA-Z0-9-]+)*$"
-      )
-    )
+    .email()
     .required(),
   password: Joi.string()
     .pattern(
