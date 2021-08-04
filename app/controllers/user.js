@@ -29,17 +29,18 @@ class UserController {
 
       // passing the above object as an argument to the registerNewEmployee Method
       service.registerNewUser(newUser, (err, data) => {
-        return err
-           ? res.status(500).send({
+        if (err) {
+           res.status(500).send({
                success: false,
                message:
                  err.message || 'Some error occurred while adding user',
-             })
-           : res.status(201).send({
+             })} else {
+           res.status(201).send({
                success: true,
                message: 'User registered successfully',
                data: data,
              });
+            }
        });
     } catch (err) {
       return res.status(500).send({
@@ -57,7 +58,7 @@ class UserController {
     };
     
     // calling a function to login employee
-    service.userLogin(userCredentials, (err, data) => {
+    service.userLogin(userCredentials, (err, token) => {
       if (err) {
         res.status(400).send({ 
           success: false, 
@@ -66,7 +67,8 @@ class UserController {
       } else {
          res.status(200).send({ 
            success: true, 
-           message: 'Login successful', data: data 
+           message: 'Login successful', 
+           token: token 
           });
       }
     });

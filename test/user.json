@@ -1,0 +1,80 @@
+{
+  "userCreate": {
+      "firstName": "Datta",
+      "lastName": "Bagale",
+      "email": "datta123@gmail.com",
+      "password": "Datta@123"
+  },
+
+  "userCreateNegFirstName": {
+    "firstName": "",
+    "lastName": "Bagale",
+    "email": "datta123@gmail.com",
+    "password": "Datta@123"
+  },
+
+  "userCreateNegLastName": {
+    "firstName": "Datta",
+    "lastName": "",
+    "email": "datta123@gmail.com",
+    "password": "Datta@123"
+  },
+
+  "userCreateNegEmail": {
+    "firstName": "Datta",
+    "lastName": "Bagale",
+    "email": "datta123@gmailcom",
+    "password": "Datta@123"
+  },
+
+  "userCreateNegPassword": {
+    "firstName": "Datta",
+    "lastName": "Bagale",
+    "email": "datta123@gmail.com",
+    "password": ""
+  },
+
+  "userLoginPos": {
+      "email": "datta123@gmail.com",
+      "password": "Datta@123"
+  },
+
+  "userLoginNegEmail": {
+      "email": "datta.123@gmail.com",
+      "password": "Datta@123"
+  },
+
+  "userLoginEmpPassword": {
+    "email": "datta123@gmail.com",
+    "password": ""
+  },
+
+  "userLoginNegPassword": {
+    "email": "datta123@gmail.com",
+    "password": "Datta@12"
+  },
+
+  "userForgotPasswordPos": {
+      "email": "sanketh.babbur11@gmail.com"
+  },
+
+  "userForgotPasswordNegEmail": {
+      "email": "sanketh.babbur11@gmail"
+  },
+
+  "userForgotPasswordNegNonRegistered": {
+      "email": "sanketh.babbur@gmail.com"
+  },
+
+  "userResetPasswordPos": {
+      "password": "MyNewestPassword@11",
+      "confirmPassword": "MyNewestPassword@11"
+  },
+
+  "userResetPasswordNeg": {
+      "password": "MyNewestPassword@11",
+      "confirmPassword": "MyNewestPassw@11"
+  }
+
+  
+}
