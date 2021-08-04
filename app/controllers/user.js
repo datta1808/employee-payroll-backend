@@ -1,6 +1,5 @@
 const service = require("../services/user.js");
 
-//Importing middle ware to validate schema (joi validator)
 const { validateInput } = require('../middleware/userValidation.js');
 
 class UserController {

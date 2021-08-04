@@ -46,6 +46,10 @@ userSchema.pre("save", function (next) {
 // collection name should be always singular
 const userRegister = mongoose.model("RegisterUser", userSchema);
 
+// Exporting schema as a module, so that we can directly access the data inside structure.
+module.exports = mongoose.model('userSchema', userSchema);
+
+
 class Registration {
   // new user
   newUserRegistration = (newUser, callback) => {
@@ -72,13 +76,15 @@ class Registration {
     }
   };
 
+  
+
   // function for user login
   //To login
   loginUser(clientCredentials, callback) {
     userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
       if (err) return callback(err, null);
       else if (!data) return callback("User not found with email", null);
-      return callback(null, data);
+      return callback(null, data); //data = users
     });
   }
 }

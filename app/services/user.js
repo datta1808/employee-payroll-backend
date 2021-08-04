@@ -23,19 +23,27 @@ class UserService {
   };
 
   // method for user login
-  userLogin(userCredentials, callback) {
-    const token = helper.generateToken(userCredentials);
-    userSchema.loginUser(userCredentials, (err, data) => {
-      if (err) {
-        return callback(err, null);
-      } else if (
-        !helper.comparePassword(userCredentials.password, data.password)
-      ) {
-        return callback("Email or Password do not match", null);
-      }
-      return callback(null, token);
-    });
-  }
+  userLogin = (userCredentials, callback) => {
+    try {
+      userSchema.loginUser(userCredentials, (err, data) => {
+        //check if the password matches
+        if (helper.comparePassword(userCredentials.password, data.password)) {
+          //create a token
+          const token = helper.generateToken(userCredentials);
+          return !token
+            ? callback(
+                "Incorrect password!",
+                null
+              )
+            : callback(null, token);
+        } else if (error) {
+          callback(error, null);
+        }
+      });
+    } catch (error) {
+      return callback(error, null);
+    }
+  };
 }
 
 module.exports = new UserService();

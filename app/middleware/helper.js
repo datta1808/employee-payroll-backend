@@ -4,6 +4,15 @@ const jwt = require("jsonwebtoken");
 
 
 class Helper {
+
+ // function for grnerating the token
+ generateToken(empData) {
+  // jwt.sign(payload, secretOrPrivateKey, [options, callback])
+  return jwt.sign(empData, process.env.SECRET_KEY, {
+    expiresIn: "1000000s",
+  });
+}
+
   // function for comparing the password
   comparePassword(loginData, databaseData) {
     return loginData && databaseData
@@ -11,13 +20,7 @@ class Helper {
       : false;
   }
 
-  // function for grnerating the token
-  generateToken(empData) {
-    // jwt.sign(payload, secretOrPrivateKey, [options, callback])
-    return jwt.sign(empData, process.env.SECRET_KEY, {
-      expiresIn: "1h",
-    });
-  }
+ 
 
   // function for verifying the token
   verifyToken(req, res, next) {
@@ -38,7 +41,7 @@ class Helper {
     } else {
       return res.status(401).send({
         success: false,
-        message: "token is required for authorization!",
+        message: "token is required for authorization!"
       });
     }
   }
