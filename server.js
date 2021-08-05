@@ -21,7 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //using swagger UI
-app.use('/employee-payroll-api', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
+app.use('/swagger', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
 
 //Connecting to the database
 dbConfig.databaseConnection();

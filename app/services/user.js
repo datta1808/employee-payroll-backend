@@ -32,7 +32,7 @@ class UserService {
           const token = helper.generateToken(userCredentials);
           return !token
             ? callback(
-                "Incorrect password!",
+                "Email or Password do not match",
                 null
               )
             : callback(null, token);
