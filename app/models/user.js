@@ -78,6 +78,7 @@ class Registration {
   };
 
   
+  
 
   // function for user login
   //To login

@@ -1,5 +1,7 @@
 const mongoose = require("mongoose");
 
+const logger = require('./logger');
+
 exports.databaseConnection = () => {
   mongoose.Promise = global.Promise;
 
@@ -15,7 +17,7 @@ exports.databaseConnection = () => {
       console.log("Successfully connected to the database");
     })
     .catch((err) => {
-      console.log("Could not connect to the database. Exiting now...", err);
+      logger.error("Could not connect to the database.");
       process.exit();
     });
 };

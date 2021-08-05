@@ -8,6 +8,9 @@ const dbConfig = require("./config/database.config.js");
 //Importing swagger-UI
 const swaggerUI = require('swagger-ui-express');
 
+// Require logger.js
+const logger = require('./config/logger');
+
 //Importing swagger json file for using swagger docs
 const swaggerDocs = require('./swagger/swagger.json');
 
@@ -29,6 +32,8 @@ dbConfig.databaseConnection();
 // define a simple route
 app.get("/", (req, res) => {
   res.json({ message: "Welcome to Employee Payroll application." });
+  // Log a message
+  logger.info("Welcome to Employee Payroll application.");
 });
 
 // Require User routes
@@ -37,6 +42,8 @@ require("./app/routes/routes.js")(app);
 // listen for requests
 app.listen(process.env.PORT, () => {
   console.log("Server is listening on port 3000");
+  // Log a message
+  logger.info('Server running at port number 3000');
 });
 
 module.exports = app;

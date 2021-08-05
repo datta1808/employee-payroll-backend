@@ -1,0 +1,12 @@
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T17:14:17.830Z"}
+{"message":"Welcome to Employee Payroll application.","level":"info","timestamp":"2021-08-05T17:14:43.711Z"}
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T17:16:59.696Z"}
+
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T17:56:49.831Z"}
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T17:57:13.436Z"}
+{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T17:57:43.182Z"}
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T18:00:45.298Z"}
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T18:00:56.114Z"}
+{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T18:01:25.599Z"}
+{"message":"Server running at port number 3000","level":"info","timestamp":"2021-08-05T18:20:59.128Z"}
+{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T18:21:28.677Z"}
