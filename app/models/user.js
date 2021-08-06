@@ -1,4 +1,6 @@
 const mongoose = require("mongoose");
+// Require logger.js
+const logger = require("../../config/logger");
 
 const bcrypt = require("bcrypt");
 
@@ -23,13 +25,13 @@ const userSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    token : {
-      type: String
-    }
+    token: {
+      type: String,
+    },
   },
   {
     timestamps: true,
-    versionKey: false
+    versionKey: false,
   }
 );
 
@@ -48,8 +50,7 @@ userSchema.pre("save", function (next) {
 const userRegister = mongoose.model("RegisterUser", userSchema);
 
 // Exporting schema as a module, so that we can directly access the data inside structure.
-module.exports = mongoose.model('userSchema', userSchema);
-
+module.exports = mongoose.model("userSchema", userSchema);
 
 class Registration {
   // new user
@@ -65,28 +66,36 @@ class Registration {
       // save
       user.save({}, (err, data) => {
         if (err) {
-          return callback(err, null);
+          logger.error("Error while saving the new user");
+          callback(err, null);
+        } else {
+          logger.info("User saved successfully");
+          callback(null, data);
         }
-        return callback(null, data);
       });
     } catch (err) {
-      return res.status(500).send({
+      logger.error("Error while saving the new user");
+      res.status(500).send({
         success: false,
         message: err.message || "Some error occurred!",
       });
     }
   };
 
-  
-  
-
   // function for user login
   //To login
   loginUser(clientCredentials, callback) {
     userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
-      if (err) return callback(err, null);
-      else if (!data) return callback("User not found with email", null);
-      return callback(null, data); //data = users
+      if (err) {
+        logger.error("Error while login");
+        callback(err, null);
+      } else if (!data) {
+        logger.error("User not found with Email");
+        callback(err, null);
+      } else {
+        logger.info("Email is matched");
+        callback(null, data); //data = users
+      }
     });
   }
 }

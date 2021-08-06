@@ -1,4 +1,14 @@
-{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T17:17:29.289Z"}
-{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T17:57:43.182Z"}
-{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T18:01:25.600Z"}
-{"message":"Could not connect to the database.","level":"error","timestamp":"2021-08-05T18:21:28.677Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T10:25:57.608Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T11:17:08.526Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T11:19:26.925Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-06T11:37:11.376Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:11.376Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:11.376Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-06T11:37:19.642Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:19.642Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:19.642Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-06T11:37:35.823Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:35.823Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:35.823Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T11:41:48.142Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-06T11:42:20.646Z"}
