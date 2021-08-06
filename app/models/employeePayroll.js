@@ -1,7 +1,6 @@
-"use strict";
 const mongoose = require("mongoose");
 
-//Importing bcrypt
+//importing bcrypt
 const bcrypt = require("bcrypt");
 
 const saltRounds = 10;
@@ -12,32 +11,33 @@ const employeeSchema = mongoose.Schema(
   {
     name: {
       type: String,
-      required: true
+      required: true,
     },
     email: {
       type: String,
-      required: true
+      required: true,
+      unique: true
     },
     password: {
       type: String,
-      required: true
+      required: true,
     },
     phoneNumber: {
       type: String,
-      required: true
+      required: true,
     },
     department: {
-        type: String,
-        required: true
+      type: String,
+      required: true,
     },
     salary: {
-        type: String,
-        required: true
+      type: String,
+      required: true,
     },
     company: {
-        type: String,
-        required: true
-    }
+      type: String,
+      required: true,
+    },
   },
   {
     timestamps: true,
@@ -45,8 +45,10 @@ const employeeSchema = mongoose.Schema(
   }
 );
 
-
 employeeSchema.pre("save", function (next) {
+  // only hash the password if it has been modified (or is new)
+  if (!this.isModified("password")) return next();
+
   bcrypt.hash(this.password, saltRounds, (err, hashedPassword) => {
     if (err) {
       return next(err);
@@ -58,12 +60,10 @@ employeeSchema.pre("save", function (next) {
 
 const employeeData = mongoose.model("Employee", employeeSchema);
 
-module.exports = mongoose.model("employeeSchema", employeeSchema);
-
 
 class Employee {
   //create method
-  createEmployee = (newEmployee, callback) => {
+  async createEmployee(newEmployee) {
     try {
       const employee = new employeeData({
         name: newEmployee.name,
@@ -76,42 +76,35 @@ class Employee {
       });
 
       //to save the new data
-      employee.save({}, (err, data) => {
-        return err ? callback(err, null) : callback(null, data);
-      });
-    } catch (err) {
-      callback(err, null);
+      const empSaved = await employee.save({});
+      return empSaved;
+    } catch (error) {
+        return error;
     }
-  };
+  }
 
   //Get all the data from the server
-  findAll = (callback) => {
+  async findAll() {
     try {
-      employeeData.find({}, (err, data) => {
-        return err ? callback(err, null) : callback(null, data);
-      });
-    } catch (err) {
-      callback(err, null);
+        return await employeeData.find({});
+    } catch (error) {
+        return error;
     }
-  };
+  }
 
   //get one employee by id
-  getDataById = (empId, callback) => {
+  async getDataById(empId) {
     try {
-      employeeData.findById(empId, (err, data) => {
-        return err ? callback(err, null) : callback(null, data);
-      });
+      return await employeeData.findById(empId)
     } catch (err) {
-      callback(err, null);
+        return error;
     }
-  };
+  }
 
   //update with id
-  updateEmpById = (empId, empData, callback) => {
-    console.log(`Employee id: ${empId.empId}`);
-
+  async updateEmpById(empId, empData) {
     try {
-      employeeData.findByIdAndUpdate(
+      return await employeeData.findByIdAndUpdate(
         empId.empId,
         {
           name: empData.name,
@@ -122,24 +115,18 @@ class Employee {
           salary: empData.salary,
           company: empData.company,
         },
-        { new: true },
-        (err, data) => {
-          return err ? callback(err, null) : callback(null, data);
-        }
-      );
-    } catch (err) {
-      callback(err, null);
+        { new: true });
+    } catch (error) {
+        return error;
     }
   };
 
   //Removing employee with id
-  removeEmpById = (empId, callback) => {
+  async removeEmpById(empId) {
     try {
-      employeeData.findByIdAndRemove(empId.empId, (err, data) => {
-        return err ? callback(err, null) : callback(null, data);
-      });
-    } catch (err) {
-      callback(err, null);
+      await employeeData.findByIdAndRemove(empId);
+    } catch (error) {
+        return error;
     }
   };
 }

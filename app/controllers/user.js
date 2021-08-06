@@ -13,10 +13,10 @@ class UserController {
       const userInputValidation = validateInput.validate(req.body);
       if (userInputValidation.error) {
         logger.error("Invalid Params");
-        return res.status(400).send({
+        res.status(400).send({
           success: false,
-          message: userInputValidation.error.details[0].message,
-          data: req.body,
+          message: "Email or password do not match",
+          data: req.body
         });
       }
 

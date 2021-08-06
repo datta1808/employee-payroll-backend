@@ -12,3 +12,12 @@
 {"message":"Error while registering the new user","level":"error","timestamp":"2021-08-06T11:37:35.823Z"}
 {"message":"User not found with Email","level":"error","timestamp":"2021-08-06T11:41:48.142Z"}
 {"message":"Invalid Params","level":"error","timestamp":"2021-08-06T11:42:20.646Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-06T19:56:08.091Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T19:57:44.220Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:00:20.585Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:00:34.443Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:03:38.111Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:03:55.739Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:05:20.336Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:05:31.455Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-06T20:06:16.503Z"}

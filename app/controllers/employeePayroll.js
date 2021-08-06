@@ -3,7 +3,7 @@ const service = require("../services/employeePayroll.js");
 const { validateInput } = require("../middleware/validation");
 
 class EmployeeController {
-  addEmployee = (req, res) => {
+  async addEmployee(req, res) {
     try {
       //validation
       const userInputValidation = validateInput.validate(req.body);
@@ -25,66 +25,33 @@ class EmployeeController {
       };
 
       //calling method to add new employee data
-      service.addNewEmployee(newEmployee, (err, data) => {
-        if (err) {
-           res.status(500).send({
-              success: false,
-              message:
-                err.message || "Some error occurred while adding employee",
-            })
-        } else {
-           res
-              .status(201)
-              .send({ message: "Employee added successfully", data: data });
-        }
-      });
-    } catch (err) {
-      res
-        .status(500)
-        .send({ message: err.message || "Some error occurred!" });
+      const empCreated = await service.addNewEmployee(newEmployee);
+      res.send({success: true, message: "Employee Created!", data: empCreated});
+    } catch (error) {
+            res.status(500).send({success: false, message: "Some error occurred while creating Employee" });
     }
   };
 
-  getAllEmployees = (req, res) => {
+  async getAllEmployees(req, res) {
     try {
-      service.getAllEmp((err, data) => {
-        if (err) {
-          res.status(500).send({
-            success: false,
-            message: err.message || "some error occurred",
-          });
-        } else {
-          res.status(200).send(data);
-        }
-      });
+      const getAllEmployees = await service.getAllEmp();
+      res.send({success: true, message:"Employees Retrieved!", data: getAllEmployees});
     } catch (err) {
-      res
-        .status(500)
-        .send({ message: err.message || "Some error occurred!" });
+      res.status(500).send({success: false, message: "Some error occurred while retrieving Employees"});
+        }
     }
-  };
 
-  getOneEmployee = (req, res) => {
+  async getOneEmployee(req, res) {
     const empId = req.params;
     try {
-      service.getOne(empId, (err, data) => {
-        if (err) {
-          res.status(500).send({
-            message:
-              err.message || "some error occurred while getting the data!",
-          });
-        } else {
-          res
-            .status(200)
-            .send({ success: true, data: data || "employee not found!" });
-        }
-      });
+      const getEmployee = await service.getOne(empId);
+      res.json(getEmployee);
     } catch (err) {
       res.status(500).send({ message: err.message || "Some error occurred!" });
     }
   };
 
-  updateEmployee = (req, res) => {
+  async updateEmployee(req, res) {
     try {
       //validation
       const userInputValidation = validateInput.validate(req.body);
@@ -99,7 +66,6 @@ class EmployeeController {
 
       //employee updated details from client
       const updatedDetails = {
-        id: req.params.empId,
         name: req.body.name,
         email: req.body.email,
         password: req.body.password,
@@ -110,48 +76,30 @@ class EmployeeController {
       };
 
       //calling method to update employee data
-      service.update(empId, updatedDetails, (err, data) => {
-        if (err) {
-          res.status(500).send({
-            success: false,
-            message:
-              err.message || "some error occurred while updating the details!",
-          });
-        } else {
-          res.status(200).send({
-            message: "Employee Details Updated!",
-            data: data,
-          });
-        }
-      });
+      const updateEmployee = await service.update(empId, updatedDetails);
+      res.send(updateEmployee);
+      
     } catch (err) {
-      res.status(500).send({ message: err.message || "Some error occurred!" });
+      res.status(500).send({ message: err.message || "Some error occurred while updating an employee!" });
     }
   };
 
-  removeEmployee = (req, res) => {
+  async removeEmployee(req, res) {
     //id param for updating exact employee
     const empId = req.params;
 
     try {
       //calling method to delete employee data
-      service.remove(empId, (err, data) => {
-        if (err) {
-          res.status(500).send({ message: "Some error occurred!" });
-        } else {
-          res.status(200).send({
-            success: true,
-            message: "Employee deleted successfully!",
-          });
-        }
-      });
+      const empDeleted = await service.remove(empId);
+      res.send({success: true, message: "Employee Deleted!"});
     } catch (err) {
       res
         .status(500)
-        .send({ message: err.message || "Some error occurred!" });
+        .send({ message: err.message || "Some error occurred deleting an Employee!" });
     }
+  }
   };
-}
+
 
 //exporting the class
 module.exports = new EmployeeController();

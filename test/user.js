@@ -161,7 +161,7 @@ describe('POST /register', () => {
                 res.body.should.be.a('object');
                 res.body.should.have.property("message").eql("Email or Password do not match");
                 return done();
-            });
+             });
     });
 });
 });

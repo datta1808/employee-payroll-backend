@@ -44,8 +44,8 @@ class UserService {
               )
             : callback(null, token);
         } else if (error) {
-          logger.info("Please enter a valid password");
-          callback(error, null);
+          logger.info("Invalid Credintials");
+          return callback(error, null);
         }
       });
     } catch (error) {

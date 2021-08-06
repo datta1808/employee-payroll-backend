@@ -1,7 +1,3 @@
-'use strict';
-//importing property/function for joi
-const { string } = require('joi');
-
 //importing joi module
 const Joi = require('joi');
 

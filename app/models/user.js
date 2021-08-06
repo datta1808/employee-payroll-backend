@@ -19,7 +19,7 @@ const userSchema = mongoose.Schema(
     email: {
       type: String,
       required: true,
-      unique: true,
+      unique: true
     },
     password: {
       type: String,
@@ -67,10 +67,10 @@ class Registration {
       user.save({}, (err, data) => {
         if (err) {
           logger.error("Error while saving the new user");
-          callback(err, null);
+          return callback(err, null);
         } else {
           logger.info("User saved successfully");
-          callback(null, data);
+          return callback(null, data);
         }
       });
     } catch (err) {
@@ -88,13 +88,13 @@ class Registration {
     userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
       if (err) {
         logger.error("Error while login");
-        callback(err, null);
+        return callback(err, null);
       } else if (!data) {
         logger.error("User not found with Email");
-        callback(err, null);
+        return callback(err, null);
       } else {
         logger.info("Email is matched");
-        callback(null, data); //data = users
+        return callback(null, data); //data = users
       }
     });
   }
