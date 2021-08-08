@@ -124,7 +124,7 @@ class Employee {
   //Removing employee with id
   async removeEmpById(empId) {
     try {
-      await employeeData.findByIdAndRemove(empId);
+      return await employeeData.findByIdAndDelete(empId);
     } catch (error) {
         return error;
     }

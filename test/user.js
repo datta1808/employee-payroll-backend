@@ -7,10 +7,7 @@ const userInputs = require('./user.json');
 chai.should();
 chai.use(chaiHttp);
 
-/**
- * /POST request test
- * Positive and Negative - Registration of User Testing
- */
+// Test cases for user registration
 describe('POST /register', () => {
     it('givenValidData_shouldMake_POSTRequestAndRegisterUser', (done) => {
         let userData = userInputs.userCreate
@@ -93,10 +90,8 @@ describe('POST /register', () => {
             });
     });
 
-    /**
- * /POST request test
- * Positive and Negative - Login of User Testing
- */
+ 
+// Test cases for user login
  describe('POST /login', () => {
     it('givenValidDataItShould_makePOSTRequestToLoginUser_andReturnTokenAndStatusCodeAs200', (done) => {
         let userData = userInputs.userLoginPos;

@@ -37,7 +37,7 @@ class UserController {
             message: err.message || "Some error occurred while adding user",
           });
         } else {
-          logger.info("User registered successfully!");
+          logger.info("User registered successfully!")
           res.status(201).send({
             success: true,
             message: "User registered successfully",

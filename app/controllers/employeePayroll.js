@@ -90,8 +90,8 @@ class EmployeeController {
 
     try {
       //calling method to delete employee data
-      const empDeleted = await service.remove(empId);
-      res.send({success: true, message: "Employee Deleted!"});
+      const deletedEmp = await service.remove(empId);
+      res.send({success: true, message: "Employee Deleted!", data: deletedEmp});
     } catch (err) {
       res
         .status(500)
