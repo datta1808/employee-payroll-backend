@@ -98,3 +98,73 @@
 {"message":"Email is matched","level":"info","timestamp":"2021-08-08T08:46:15.049Z"}
 {"message":"Token is generated","level":"info","timestamp":"2021-08-08T08:46:15.222Z"}
 {"message":"User logged in!","level":"info","timestamp":"2021-08-08T08:46:15.222Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-08T12:02:11.920Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:02:11.923Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:02:11.923Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-08T12:12:06.561Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:12:06.561Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:12:06.562Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-08T12:12:08.999Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:12:09.000Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T12:12:09.000Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-08T14:08:46.638Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T14:08:46.642Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-08T14:08:46.643Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-08T14:09:18.858Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-08T14:09:18.859Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-08T14:09:18.859Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-08T14:09:30.745Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-08T14:09:31.031Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-08T14:10:03.040Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-08T14:10:03.248Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:11:02.638Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:11:02.914Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:11:02.914Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:14:25.858Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:14:26.130Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:14:26.131Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:35:46.001Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:35:46.280Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:35:46.281Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:37:41.764Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:37:41.937Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:37:41.937Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:41:16.228Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:41:16.398Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:41:16.399Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:46:41.285Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:46:41.471Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:46:41.471Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T14:53:20.050Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T14:53:20.340Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T14:53:20.340Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T15:17:26.715Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T15:17:27.003Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T15:17:27.003Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T15:29:33.510Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T15:29:33.782Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T15:29:33.783Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T15:33:44.116Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T15:33:44.402Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T15:33:44.403Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T15:54:14.191Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T15:54:14.265Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T15:54:14.266Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T15:56:36.700Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T15:56:36.871Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T15:56:36.871Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T16:01:06.468Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T16:01:06.777Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T16:01:06.778Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T16:04:41.154Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T16:04:41.328Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T16:04:41.329Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T16:08:14.054Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T16:08:14.333Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T16:08:14.334Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T16:13:34.443Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T16:13:34.614Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T16:13:34.615Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-08T16:15:19.192Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-08T16:15:19.328Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-08T16:15:19.329Z"}

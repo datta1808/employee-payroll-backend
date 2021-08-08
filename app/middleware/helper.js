@@ -9,7 +9,7 @@ class Helper {
  generateToken(empData) {
   // jwt.sign(payload, secretOrPrivateKey, [options, callback])
   return jwt.sign(empData, process.env.SECRET_KEY, {
-    expiresIn: "100s",
+    expiresIn: "200s",
   });
 }
 

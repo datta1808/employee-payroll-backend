@@ -32,15 +32,16 @@ class EmployeeController {
     }
   };
 
-  async getAllEmployees(req, res) {
-    try {
-      const getAllEmployees = await service.getAllEmp();
-      res.send({success: true, message:"Employees Retrieved!", data: getAllEmployees});
-    } catch (err) {
-      res.status(500).send({success: false, message: "Some error occurred while retrieving Employees"});
-        }
+  
+  getAllEmployees = (req, res) => {
+      service.getAllEmp().then(data => {
+          return res.send(data)
+      }).catch(err => {
+          return res.send(err)
+      })
     }
-
+      
+    
   async getOneEmployee(req, res) {
     const empId = req.params;
     try {

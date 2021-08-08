@@ -16,7 +16,7 @@ const employeeSchema = mongoose.Schema(
     email: {
       type: String,
       required: true,
-      unique: true
+      unique: true,
     },
     password: {
       type: String,
@@ -60,7 +60,6 @@ employeeSchema.pre("save", function (next) {
 
 const employeeData = mongoose.model("Employee", employeeSchema);
 
-
 class Employee {
   //create method
   async createEmployee(newEmployee) {
@@ -79,25 +78,30 @@ class Employee {
       const empSaved = await employee.save({});
       return empSaved;
     } catch (error) {
-        return error;
+      return error;
     }
   }
 
   //Get all the data from the server
-  async findAll() {
-    try {
-        return await employeeData.find({});
-    } catch (error) {
-        return error;
-    }
-  }
+  findAll = () => {
+    return new Promise((resolve, reject) => {
+      employeeData
+        .find({})
+        .then((data) => {
+          resolve(data);
+        })
+        .catch((error) => {
+          reject(error);
+        });
+    });
+  };
 
   //get one employee by id
   async getDataById(empId) {
     try {
-      return await employeeData.findById(empId)
+      return await employeeData.findById(empId);
     } catch (err) {
-        return error;
+      return error;
     }
   }
 
@@ -115,21 +119,23 @@ class Employee {
           salary: empData.salary,
           company: empData.company,
         },
-        { new: true });
+        { new: true }
+      );
     } catch (error) {
-        return error;
+      return error;
     }
-  };
+  }
 
   //Removing employee with id
-  async removeEmpById(empId) {
-    try {
-      return await employeeData.findByIdAndDelete(empId);
-    } catch (error) {
-        return error;
-    }
-  };
+  removeEmpById = (empId) => {
+    return new Promise((resolve, reject) => {
+      employeeData.findByIdAndDelete(empId) = (data => {
+        resolve(data)
+      }).catch(err => {
+        reject(err)
+})
+})
+  }
 }
-
 //exporting class
 module.exports = new Employee();
