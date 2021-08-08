@@ -20,12 +20,12 @@ module.exports = (app) => {
   app.get('/getEmployees', helper.verifyToken, employeeController.getAllEmployees);
 
   // Getting employee by id
-  app.get( '/getEmployee/:empId', helper.verifyToken, employeeController.getOneEmployee );
+  app.get( '/getEmployee/:empId', helper.verifyToken, employeeController.getOneEmployee);
 
   // Updating the employee
   app.put( '/updateEmployee/:empId', helper.verifyToken, employeeController.updateEmployee );
 
   // deleting the employee
-  app.delete( '/deleteEmployee/:empId', helper.verifyToken, employeeController.removeEmployee );
+  app.delete( '/deleteEmployee/:empId', helper.verifyToken, employeeController.removeEmployee);
 
 };
