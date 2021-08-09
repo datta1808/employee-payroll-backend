@@ -85,21 +85,18 @@ class EmployeeController {
     }
   };
 
-  async removeEmployee(req, res) {
+  removeEmployee = (req, res) => {
     //id param for updating exact employee
     const empId = req.params;
 
-    try {
-      //calling method to delete employee data
-      const deletedEmp = await service.remove(empId);
-      res.send({success: true, message: "Employee Deleted!", data: deletedEmp});
-    } catch (err) {
-      res
-        .status(500)
-        .send({ message: err.message || "Some error occurred deleting an Employee!" });
-    }
-  }
+    service.remove(empId).then(data => {
+      return res.send(data)
+    })
+    .catch(err => {
+      return res.send(err)
+    })
   };
+}
 
 
 //exporting the class

@@ -129,9 +129,9 @@ class Employee {
   //Removing employee with id
   removeEmpById = (empId) => {
     return new Promise((resolve, reject) => {
-      employeeData.findByIdAndDelete(empId) = (data => {
+      employeeData.findByIdAndDelete(empId).then((data) => {
         resolve(data)
-      }).catch(err => {
+      }).catch((err) => {
         reject(err)
 })
 })

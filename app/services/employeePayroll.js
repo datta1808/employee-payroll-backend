@@ -54,7 +54,7 @@ class Service {
     }
 
     //method to delete employee
-    employeeModel
+    return employeeModel
       .removeEmpById(empId)
       .then((data) => {
         return data;

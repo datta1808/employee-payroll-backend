@@ -9,7 +9,7 @@ class Helper {
  generateToken(empData) {
   // jwt.sign(payload, secretOrPrivateKey, [options, callback])
   return jwt.sign(empData, process.env.SECRET_KEY, {
-    expiresIn: "200s",
+    expiresIn: "2000s",
   });
 }
 
@@ -39,7 +39,7 @@ class Helper {
         }
       });
     } else {
-      return res.status(401).send({
+      return res.status(401).send({ 
         success: false,
         message: "token is required for authorization!"
       });
