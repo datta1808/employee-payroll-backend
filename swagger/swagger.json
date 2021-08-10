@@ -248,7 +248,6 @@
             }
           }
     },
-    
     "securityDefinitions": {
         "JWT": {
             "type": "apiKey",
