@@ -48,20 +48,14 @@ class Service {
   }
 
   // method to delete employee using promises
-  remove = (empId) => {
-    if (!empId) {
-      return res.status(404).send({ message: "Employee not found" });
-    }
-
-    //method to delete employee
-    return employeeModel
-      .removeEmpById(empId)
-      .then((data) => {
-        return data;
-      })
-      .catch((error) => {
-        return error;
+  deleteEmpData = (empId, callback) => {
+    try {
+      employeeModel.deleteById(empId, (error, data) => {
+        return error ? callback(error, null) : callback(null, data);
       });
+    } catch (error) {
+      return callback(error, null);
+    }
   };
 }
 

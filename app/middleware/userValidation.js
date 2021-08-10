@@ -17,7 +17,6 @@ const validateInput = Joi.object({
     .pattern(
       new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})")
     )
-    .required(),
 });
 
 //exporting module

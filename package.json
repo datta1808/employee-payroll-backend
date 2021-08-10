@@ -27,7 +27,8 @@
   "scripts": {
     "test": "nyc mocha",
     "start": "node server.js",
-    "debug": "nodemon --inspect server.js"
+    "debug": "nodemon --inspect server.js",
+    "lint":"eslint ."
   },
   "author": "datta",
   "license": "ISC"

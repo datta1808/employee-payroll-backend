@@ -1,3 +1,19 @@
+/*********************************************************************
+ * Execution    : 1. Default node with npm   cmd> npm server.js
+ *                2. If nodemon installed    cmd> npm start
+ *
+ * Purpose      : Controls the operations of registration and login
+ *
+ * @description 
+ *
+ * @file        : controllers/user.js
+ * @overview    : controls user registration and login tasks
+ * @module      : UserController
+ * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
+ * @version     : _ _ _
+ * @since       : 28-07-2021
+ *********************************************************************/
+
 const service = require("../services/user.js");
 
 // Require logger.js
@@ -6,7 +22,12 @@ const logger = require("../../config/logger");
 const { validateInput } = require("../middleware/userValidation.js");
 
 class UserController {
-  //user registration
+  /**
+    * function to call the create function from service.js (creates new employee)
+    * @param {*} req 
+    * @param {*} res
+    * @returns HTTP status and object
+    */
   registerUser = (req, res) => {
     try {
       //validation
@@ -15,7 +36,7 @@ class UserController {
         logger.error("Invalid Params");
         res.status(400).send({
           success: false,
-          message: "Email or password do not match",
+          message: userInputValidation.error.details[0].message,
           data: req.body
         });
       }
@@ -54,9 +75,12 @@ class UserController {
     }
   };
 
-  // user login
+  /**
+    * To login the employee and authenticate
+    * @param {*} req 
+    * @param {*} res 
+    */
   loginUser(req, res) {
-    try {
       const userCredentials = {
         email: req.body.email,
         password: req.body.password,
@@ -79,14 +103,7 @@ class UserController {
           });
         }
       });
-    } catch (err) {
-      logger.error("Error while authenticating the user");
-      res.status(500).json({
-        success: false,
-        message: "Some error occurred while authenticating the user",
-      });
-    }
-  }
+    } 
 }
 
 module.exports = new UserController();

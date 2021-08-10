@@ -85,17 +85,20 @@ class EmployeeController {
     }
   };
 
-  removeEmployee = (req, res) => {
-    //id param for updating exact employee
-    const empId = req.params;
-
-    service.remove(empId).then(data => {
-      return res.send(data)
-    })
-    .catch(err => {
-      return res.send(err)
-    })
-  };
+  deleteEmp = (req,res) =>{
+    let empId = req.params.empId;
+    service.deleteEmpData(empId,(error,data)=>{
+        return((error)?res.status(400).send({
+            success:false,
+            message: "Error occured while deleting employee"
+        }):
+        res.send({
+            success: true,
+            message: "Employee deleted successfully!",
+            data: data
+        }));
+    });
+}
 }
 
 

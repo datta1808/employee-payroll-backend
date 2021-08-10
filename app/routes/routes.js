@@ -26,6 +26,6 @@ module.exports = (app) => {
   app.put( '/updateEmployee/:empId', helper.verifyToken, employeeController.updateEmployee );
 
   // deleting the employee
-  app.delete( '/deleteEmployee/:empId', helper.verifyToken, employeeController.removeEmployee);
+  app.delete( '/deleteEmployee/:empId', helper.verifyToken, employeeController.deleteEmp);
 
 };

@@ -1,3 +1,21 @@
+/*********************************************************************
+ * Execution    : 1. Default node with npm   cmd> npm server.js
+ *                2. If nodemon installed    cmd> npm start
+ *
+ * Purpose      : Describes the schema for employee details
+ *
+ * @description
+ *
+ * @file        : models/employeePayroll.js
+ * @overview    : Provides schema for database and performs CRUD operations
+ * @module      : Employee
+ * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
+ * @version     : _ _ _
+ * @since       : 28-07-2021
+ *********************************************************************/
+
+'use strict';
+
 const mongoose = require("mongoose");
 
 //importing bcrypt
@@ -61,7 +79,11 @@ employeeSchema.pre("save", function (next) {
 const employeeData = mongoose.model("Employee", employeeSchema);
 
 class Employee {
-  //create method
+  /** 
+  * @description funnction to register employee in the database
+  * @param {*} newEmployee 
+  * @returns saved data or if error returns error 
+  */
   async createEmployee(newEmployee) {
     try {
       const employee = new employeeData({
@@ -82,7 +104,10 @@ class Employee {
     }
   }
 
-  //Get all the data from the server
+  /**
+     * @description function to get all employees from database 
+     * @returns retrieved employees or if error returns error
+     */
   findAll = () => {
     return new Promise((resolve, reject) => {
       employeeData
@@ -96,7 +121,11 @@ class Employee {
     });
   };
 
-  //get one employee by id
+  /**
+     * @description function written to get employees by Id into database 
+     * @param {*} empId
+     * @returns employee of particular Id or if any error return error
+     */
   async getDataById(empId) {
     try {
       return await employeeData.findById(empId);
@@ -105,7 +134,12 @@ class Employee {
     }
   }
 
-  //update with id
+/**
+     * @description function written to update employees by Id into database 
+     * @param {*} empId
+     * @param {*} empData
+     * @returns employee\ of particular Id or if any error return error
+     */
   async updateEmpById(empId, empData) {
     try {
       return await employeeData.findByIdAndUpdate(
@@ -126,16 +160,16 @@ class Employee {
     }
   }
 
-  //Removing employee with id
-  removeEmpById = (empId) => {
-    return new Promise((resolve, reject) => {
-      employeeData.findByIdAndDelete(empId).then((data) => {
-        resolve(data)
-      }).catch((err) => {
-        reject(err)
-})
-})
-  }
+  /**
+     * @description function to delete employee by id
+     * @param {*} empId 
+     * @returns data else if error returns error
+     */
+   deleteById = (empId, callback) =>{
+    employeeData.findByIdAndRemove(empId,(error, data)=>{
+        return((error)? (callback(error, null)):(callback(null, data)));
+    })
+}
 }
 //exporting class
 module.exports = new Employee();

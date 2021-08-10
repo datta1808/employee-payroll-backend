@@ -1,3 +1,19 @@
+/*********************************************************************
+ * Execution    : 1. Default node with npm   cmd> npm server.js
+ *                2. If nodemon installed    cmd> npm start
+ *
+ * Purpose      : Invokes the functions related to the database 
+ *
+ * @description
+ *
+ * @file        : services/user.js
+ * @overview    : calls functions from the model to respond to the controller
+ * @module      : This is necessary to perform CRUD operations
+ * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
+ * @version     : _ _ _
+ * @since       : 28-07-2021
+ *********************************************************************/
+
 const userSchema = require("../models/user.js");
 
 // Require logger.js
@@ -7,7 +23,11 @@ const logger = require("../../config/logger");
 const helper = require("../middleware/helper.js");
 
 class UserService {
-  // method for registering a new user
+  /**
+     * @description function created to create user into database
+     * @param {*} newUser
+     * @param {*} callBack 
+     */
   registerNewUser = (newUser, callback) => {
     try {
       // calling method from the models
@@ -21,14 +41,15 @@ class UserService {
         }
       });
     } catch (err) {
-      return res.send({
-        success: false,
-        message: err.message || "Some error occurred!",
-      });
+      callback(err || 'Some error occurred!', null);
     }
   };
 
-  // method for user login
+  /**
+     * @description function created to login user
+     * @param {*} userCredentials 
+     * @param {*} callBack 
+     */
   userLogin = (userCredentials, callback) => {
     try {
       userSchema.loginUser(userCredentials, (err, data) => {
@@ -39,7 +60,7 @@ class UserService {
           logger.info("Token is generated");
           return !token
             ? callback(
-                "Email or Password do not match",
+                "Wrong password!",
                 null
               )
             : callback(null, token);

@@ -257,7 +257,7 @@
         }
     },
     "definitions": {
-        "User": {
+        "Register": {
             "type": "object",
             "properties": {
                 "firstName": {

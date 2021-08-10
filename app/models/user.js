@@ -1,3 +1,21 @@
+/*********************************************************************
+ * Execution    : 1. Default node with npm   cmd> npm server.js
+ *                2. If nodemon installed    cmd> npm start
+ *
+ * Purpose      : Describes the schema for user registration & login 
+ *
+ * @description
+ *
+ * @file        : models/user.js
+ * @overview    : Provides schema for database and performs registering user and authorizing
+ * @module      : Registration
+ * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
+ * @version     : _ _ _
+ * @since       : 28-07-2021
+ *********************************************************************/
+
+'use strict';
+
 const mongoose = require("mongoose");
 // Require logger.js
 const logger = require("../../config/logger");
@@ -23,7 +41,6 @@ const userSchema = mongoose.Schema(
     },
     password: {
       type: String,
-      required: true,
     },
     token: {
       type: String,
@@ -53,7 +70,11 @@ const userRegister = mongoose.model("RegisterUser", userSchema);
 module.exports = mongoose.model("userSchema", userSchema);
 
 class Registration {
-  // new user
+  /**
+     * @description function written to create new user into database 
+     * @param {*} newUser
+     * @param {*} callBack 
+     */
   newUserRegistration = (newUser, callback) => {
     try {
       const user = new userRegister({
@@ -82,8 +103,11 @@ class Registration {
     }
   };
 
-  // function for user login
-  //To login
+  /**
+     * @description checks if email is present or not
+     * @param {*} clientCredentials
+     * @param {*} callBack 
+     */
   loginUser(clientCredentials, callback) {
     userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
       if (err) {
@@ -91,11 +115,10 @@ class Registration {
         return callback(err, null);
       } else if (!data) {
         logger.error("User not found with Email");
-        return callback(err, null);
-      } else {
+        return callback('User not found with email', null);
+      } 
         logger.info("Email is matched");
         return callback(null, data); //data = users
-      }
     });
   }
 }
