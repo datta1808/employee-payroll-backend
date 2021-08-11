@@ -1,56 +1,140 @@
 {
-  "userCreate": {
-      "firstName": "Datta",
-      "lastName": "Bagale",
-      "email": "datta1234@gmail.com",
-      "password": "Datta@1234"
-  },
-
-  "userCreateNegFirstName": {
-    "firstName": "",
-    "lastName": "Bagale",
-    "email": "datta1234@gmail.com",
-    "password": "Datta@1234"
-  },
-
-  "userCreateNegLastName": {
-    "firstName": "Datta",
-    "lastName": "",
-    "email": "datta1234@gmail.com",
-    "password": "Datta@1234"
-  },
-
-  "userCreateNegEmail": {
+  "registerUserPass": {
     "firstName": "Datta",
     "lastName": "Bagale",
-    "email": "datta1234@gmailcom",
-    "password": "Datta@1234"
+    "email": "datta123@gmail.com",
+    "password": "Datta@123"
   },
-
-  "userCreateNegPassword": {
-    "firstName": "Datta",
+  "registerUserFirstNameFail": {
+    "firstName": "datta",
     "lastName": "Bagale",
-    "email": "datta1234@gmail.com",
-    "password": ""
+    "email": "datta1@gmail.com",
+    "password": "Datta@123"
   },
-
-  "userLoginPos": {
-      "email": "datta1234@gmail.com",
-      "password": "Datta@1234"
+  "registerUserLastNameFail": {
+    "firstName": "Datta",
+    "lastName": "bagale",
+    "email": "datta12@gmail.com",
+    "password": "TestPerson123@"
   },
-
-  "userLoginNegEmail": {
-      "email": "datta.1234@gmail.com",
-      "password": "Datta@1234"
+  "userLoginPass": {
+    "email": "datta123@gmail.com",
+    "password": "Datta@123"
   },
-
-  "userLoginEmpPassword": {
-    "email": "datta1234@gmail.com",
-    "password": ""
+  "loginWrongEmail": {
+    "email": "datta123@@gmail.com",
+    "password": "datta@123"
   },
-
-  "userLoginNegPassword": {
-    "email": "datta1234@gmail.com",
-    "password": "Datta@12"
+  "userLoginWrongPasswordFail": {
+    "email": "datta123@gmail.com",
+    "password": "datta123"
+  },
+  "addEmployeePass": {
+    "name": "Datta",
+    "email": "dattatreya1@gmail.com",
+    "password": "Dattatreya@123",
+    "phoneNumber": "8888877777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidNameFormat1": {
+    "name": "datta",
+    "email": "dattatreya2@gmail.com",
+    "password": "Dattatreya@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidNameFormat2": {
+    "name": "A",
+    "email": "dattatreya2@gmail.com",
+    "password": "Dattatreya@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidNameFormat4": {
+    "name": 123456,
+    "email": "dattatreya2@gmail.com",
+    "password": "Dattatreya@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidEmailFormat": {
+    "name": "Datta",
+    "email": "dattatreya@@gmail.com",
+    "password": "Dattatreya@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidPasswordFormat1": {
+    "name": "Datta",
+    "email": "dattatreya@gmail.com",
+    "password": "datta@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidPasswordFormat2": {
+    "name": "Datta",
+    "email": "dattatreya@gmail.com",
+    "password": "datta@bagale",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidPasswordFormat3": {
+    "name": "Datta",
+    "email": "dattatreya@gmail.com",
+    "password": "DATTA@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "addEmployeeInvalidPasswordFormat4": {
+    "name": "Datta",
+    "email": "dattatreya@gmail.com",
+    "password": "Datta123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "getOnePass": {
+    "id": "611384b9d5ebd35d58b45ded"
+  },
+  "deletePass": {
+    "id": "6113beff6b2a3822e02a40a1"
+  },
+  "getOneFail": {
+    "id": "6113beff6b2a3822e02a40a1h"
+  },
+  "updateEmployeePass": {
+    "name": "Dattatreya",
+    "email": "dattatreya@gmail.com",
+    "password": "Datta@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
+  },
+  "updateEmployeeInvalidNameFormat1": {
+    "name": "Dattatreya",
+    "email": "dattatreya@gmail.com",
+    "password": "Datta@123",
+    "phoneNumber": "9999977777",
+    "department": "Engineering",
+    "salary": "600000",
+    "company": "Blazeclan"
   }
 }

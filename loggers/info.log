@@ -608,3 +608,2208 @@
 {"message":"Email is matched","level":"info","timestamp":"2021-08-10T06:56:00.585Z"}
 {"message":"Token is generated","level":"info","timestamp":"2021-08-10T06:56:00.783Z"}
 {"message":"User logged in!","level":"info","timestamp":"2021-08-10T06:56:00.784Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.852Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.853Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.853Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.879Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.894Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.903Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.913Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T07:11:41.935Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T07:11:42.017Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T07:11:42.017Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T07:12:56.325Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-10T07:12:56.326Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-10T07:12:56.326Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.342Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.345Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.345Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.346Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.357Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.366Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.375Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T07:12:56.398Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T07:12:56.494Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T07:12:56.494Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T07:12:56.503Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-10T07:12:56.503Z"}
+{"message":"User registered successfully!","level":"info","timestamp":"2021-08-10T07:12:56.503Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T09:46:26.041Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-10T09:46:26.043Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:06:28.654Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-10T10:06:28.654Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:06:28.668Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:06:28.734Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:09:21.428Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:09:21.504Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T10:09:58.770Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T10:09:58.771Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:09:58.790Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T10:09:58.862Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:11:31.057Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:11:31.138Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:17:24.616Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:17:47.037Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:18:18.304Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-10T10:18:18.304Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:18:18.318Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:28:40.764Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-10T10:28:40.766Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:28:40.793Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:28:40.837Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:30:20.634Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-10T10:32:58.274Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-10T10:32:58.276Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:32:58.303Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:33:27.142Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:33:27.316Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:33:27.317Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:34:11.061Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:34:11.181Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:34:11.181Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:35:19.067Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:35:19.144Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:35:19.144Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:43:35.216Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:43:35.276Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:43:35.276Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:43:35.290Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:47:51.779Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:47:51.838Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:47:51.839Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:47:51.851Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:51:12.253Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:51:12.314Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:51:12.314Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:51:12.326Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T10:51:44.595Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T10:51:44.653Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T10:51:44.654Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:51:44.666Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:52:55.937Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:54:29.211Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:22:37.065Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:22:37.085Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:22:37.102Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:22:37.162Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:22:37.162Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:22:37.169Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:25:30.815Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:25:30.839Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:25:30.855Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:25:30.914Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:25:30.915Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:25:30.922Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:26:36.454Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:26:36.476Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:26:36.492Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:26:36.552Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:26:36.552Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:26:36.559Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:27:43.692Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:27:43.711Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:27:43.729Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:27:43.788Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:27:43.788Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:27:43.795Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:29:30.727Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:29:30.746Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:29:30.763Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:29:30.822Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:29:30.822Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:29:30.830Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:32:13.587Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:32:13.606Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:32:13.623Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:32:13.682Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:32:13.682Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:32:13.689Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:33:46.968Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:33:56.987Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:38:20.948Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:38:20.975Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:38:21.001Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:38:21.087Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:38:21.087Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:38:21.098Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:39:53.069Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:39:53.095Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:39:53.120Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:39:53.221Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:39:53.221Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:39:53.231Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:41:22.507Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:41:22.546Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:41:22.582Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:41:22.728Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:41:22.729Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:41:22.743Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:41:22.756Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:42:21.064Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:42:21.091Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:42:21.113Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:42:21.192Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:42:21.193Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:42:21.202Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:42:21.211Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:44:31.883Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:44:31.910Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:44:31.941Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T11:44:32.067Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T11:44:32.068Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:44:32.082Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T11:44:32.100Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:48:18.969Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:48:19.020Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T14:48:19.089Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T14:48:19.256Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T14:48:19.256Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:56:53.137Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:56:53.185Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T14:56:53.233Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T14:56:53.328Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T14:56:53.329Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:59:07.463Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:59:07.510Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T14:59:07.558Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T14:59:07.705Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T14:59:07.705Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T15:07:06.208Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:07:29.547Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:07:29.822Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:07:29.823Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:14:11.808Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:14:11.855Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:14:11.900Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:14:12.054Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:14:12.055Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:15:30.755Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:15:30.794Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:15:30.840Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:15:30.990Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:15:30.991Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:21:05.349Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:21:05.376Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:21:05.414Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:21:05.558Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:21:05.558Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:46:37.022Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:46:37.299Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:46:37.299Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:53:42.406Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:53:42.433Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T15:53:42.467Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T15:53:42.578Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T15:53:42.578Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:00:04.740Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:00:04.789Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:00:04.834Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:00:04.983Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:00:04.984Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:40:43.288Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:40:43.310Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:41:22.088Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:41:22.109Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:41:22.126Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:41:22.187Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:41:22.187Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:41:24.223Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:41:24.295Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:41:24.295Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:42:33.303Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:42:33.321Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:42:33.338Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:42:33.400Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:42:33.400Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:45:03.278Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:45:03.297Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:45:03.316Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:45:03.376Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:45:03.376Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:46:04.318Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:46:04.338Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:46:04.359Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:46:04.420Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:46:04.420Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:48:33.729Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:48:33.748Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:48:33.767Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:48:33.826Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:48:33.827Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:52:25.623Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:52:25.646Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:52:25.664Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:52:25.723Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:52:25.723Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:53:14.347Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:53:14.368Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:53:14.385Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:53:14.445Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:53:14.445Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:54:03.741Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:54:03.763Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:54:03.782Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:54:03.842Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:54:03.842Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:55:11.952Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:55:11.970Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:55:11.987Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:55:12.047Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:55:12.048Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:56:59.000Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:56:59.021Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:56:59.038Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:56:59.098Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:56:59.098Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:57:25.650Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:57:25.670Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:57:25.686Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:57:25.747Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:57:25.747Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T16:57:35.774Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T16:57:35.834Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T16:57:35.834Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T17:13:52.025Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T17:13:52.087Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T17:13:52.087Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T17:17:15.614Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T17:17:15.676Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T17:17:15.676Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T17:23:20.868Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T17:23:20.931Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T17:23:20.931Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:01:12.977Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:01:13.163Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:01:13.163Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:15:00.160Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:15:00.184Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:15:00.214Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:15:00.346Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:15:00.346Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:15:00.461Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:15:00.536Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:15:00.536Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:23:34.104Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:23:34.136Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:23:34.175Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:23:34.274Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:23:34.274Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:23:34.444Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:23:34.588Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:23:34.588Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:26:33.175Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:26:33.200Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:26:33.230Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:26:33.332Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:26:33.332Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:26:33.473Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:26:33.564Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:26:33.564Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:30:47.578Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:30:47.769Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:30:47.769Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-10T18:33:51.430Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-10T18:33:51.638Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-10T18:33:51.639Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:03:38.166Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:03:38.219Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:03:38.280Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:03:38.430Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:03:38.431Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:03:38.451Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:03:38.577Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:03:38.577Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:03:38.689Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:03:38.808Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:03:38.808Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:05:41.353Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:05:41.587Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:05:41.587Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:15.237Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:15.267Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:15.296Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:15.436Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:15.436Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:15.455Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:15.604Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:15.604Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:15.768Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:15.891Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:15.891Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:38.440Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:38.482Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:38.528Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:38.648Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:38.648Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:38.660Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:38.755Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:38.756Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:07:38.932Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:07:39.089Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:07:39.089Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:08:17.022Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:08:17.076Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:08:17.125Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:08:17.259Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:08:17.259Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:08:17.271Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:08:17.386Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:08:17.386Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:08:17.488Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:08:17.599Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:08:17.599Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:09:49.171Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:09:49.173Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:09:49.220Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:09:49.237Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:09:49.277Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:09:49.434Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:09:49.435Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:09:49.455Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:09:49.617Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:09:49.617Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:09:49.810Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:09:49.979Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:09:49.979Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:11:50.284Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:11:50.313Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:11:50.350Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:11:50.485Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:11:50.486Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:11:50.503Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:11:50.652Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:11:50.652Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:11:50.824Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:11:50.973Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:11:50.973Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:26:03.618Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:26:03.620Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:26:03.659Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:26:03.677Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:26:03.718Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:26:03.857Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:26:03.857Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:26:03.870Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:26:04.019Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:26:04.019Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:26:04.179Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:26:04.264Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:26:04.264Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:31:22.800Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:31:22.801Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:31:22.828Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:31:22.839Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:31:22.868Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:31:23.009Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:31:23.009Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:31:23.031Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:31:23.196Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:31:23.196Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:31:23.363Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:31:23.526Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:31:23.526Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T02:34:51.873Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T02:34:51.875Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:34:51.901Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:34:51.915Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:34:51.954Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:34:52.111Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:34:52.111Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:34:52.133Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:34:52.295Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:34:52.295Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:34:52.475Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:34:52.593Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:34:52.593Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T02:52:32.210Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T02:52:51.470Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T02:54:07.275Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T02:54:07.336Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T02:54:07.336Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T04:10:06.923Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T04:10:06.923Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T04:10:06.938Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T04:10:06.947Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T04:10:06.967Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T04:10:07.032Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T04:10:07.032Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T04:10:07.040Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T04:10:07.104Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T04:10:07.104Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T04:10:07.186Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T04:10:07.249Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T04:10:07.249Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T04:13:43.026Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T04:13:43.088Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T04:13:43.088Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T05:29:24.435Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T05:29:24.437Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:29:24.461Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:29:24.469Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:29:24.493Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:29:24.559Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:29:24.560Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:29:24.567Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:29:24.627Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:29:24.627Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:29:24.701Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:29:24.760Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:29:24.760Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T05:30:28.805Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T05:30:28.806Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:30:28.819Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:30:28.827Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:30:28.843Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:30:28.902Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:30:28.902Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:30:28.912Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:30:28.972Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:30:28.972Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T05:30:29.048Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T05:30:29.107Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T05:30:29.107Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T07:49:46.497Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T07:49:46.725Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T07:49:46.725Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T07:54:46.743Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T07:54:46.907Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T07:54:46.907Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:05:12.750Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:05:12.752Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:05:12.796Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:05:12.813Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:05:12.861Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:05:13.026Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:05:13.027Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:05:13.049Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:05:13.215Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:05:13.215Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:05:13.416Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:05:13.581Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:05:13.581Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:05:13.608Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:05:13.769Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:05:13.769Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:06:08.987Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:06:08.990Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:06:09.035Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:06:09.050Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:06:09.089Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:06:09.241Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:06:09.241Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:06:09.254Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:06:09.338Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:06:09.338Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:06:09.454Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:06:09.615Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:06:09.615Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:06:09.642Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:06:09.817Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:06:09.817Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:08:57.481Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:08:57.483Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:08:57.523Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:08:57.537Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:08:57.579Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:08:57.692Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:08:57.692Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:08:57.705Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:08:57.804Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:08:57.804Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:08:57.945Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:08:58.021Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:08:58.021Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:08:58.034Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:08:58.153Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:08:58.154Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:08:58.177Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:08:58.293Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:08:58.294Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:10:48.248Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:10:48.250Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:10:48.291Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:10:48.304Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:10:48.343Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:10:48.495Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:10:48.496Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:10:48.518Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:10:48.676Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:10:48.677Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:10:48.876Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:10:49.024Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:10:49.024Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:10:49.049Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:10:49.203Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:10:49.203Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:10:49.219Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:10:49.371Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:10:49.371Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:14:16.492Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:14:16.494Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:14:16.525Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:14:16.538Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:16.569Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:16.721Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:16.721Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:16.738Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:16.891Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:16.891Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:17.034Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:17.156Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:17.156Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:17.180Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:17.280Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:17.280Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:17.294Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:17.370Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:17.370Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:14:17.384Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:14:17.467Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:14:17.467Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:22:08.406Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:22:08.407Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:08.434Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:08.445Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:08.467Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:08.581Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:08.581Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:08.600Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:08.761Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:08.761Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:08.927Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:09.083Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:09.083Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:09.106Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:09.205Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:09.205Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:09.218Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:09.303Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:09.303Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:09.317Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:09.436Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:09.436Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:09.456Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:09.562Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:09.562Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:22:40.889Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:22:40.891Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:40.921Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:40.929Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:40.948Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.026Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.027Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.039Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.149Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.149Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.308Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.443Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.443Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.466Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.565Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.565Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.584Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.681Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.681Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.698Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:41.826Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:41.826Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:22:41.848Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:22:42.004Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:22:42.004Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:24:34.666Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:24:34.667Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:24:34.691Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:24:34.700Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:34.722Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:34.843Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:34.843Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:34.863Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.010Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.010Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:35.184Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.336Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.336Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:35.355Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.450Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.450Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:35.463Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.539Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.539Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:35.552Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.649Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.649Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:24:35.664Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:24:35.748Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:24:35.748Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:30:06.106Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:30:06.384Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:30:06.384Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:33:18.882Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:33:18.883Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:33:18.908Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:33:18.916Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:18.938Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.032Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.032Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.044Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.153Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.154Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.317Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.447Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.448Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.464Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.587Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.587Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.604Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.685Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.686Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.699Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.810Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.810Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.833Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:19.976Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:19.976Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:33:19.997Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:33:20.113Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:33:20.113Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:34:09.861Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:34:09.863Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:34:09.895Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:34:09.906Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:09.940Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.073Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.073Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.087Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.180Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.180Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.321Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.452Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.452Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.473Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.613Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.613Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.630Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.704Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.704Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.717Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.797Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.797Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.810Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:10.905Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:10.906Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:34:10.921Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:34:11.040Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:34:11.040Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:36:26.710Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:36:26.712Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:36:26.752Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:36:26.767Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:26.802Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:26.923Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:26.923Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:26.942Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.040Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.040Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.194Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.324Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.324Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.338Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.453Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.453Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.467Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.569Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.569Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.582Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.681Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.681Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.701Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.824Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.824Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.837Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:27.962Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:27.962Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:36:27.981Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:36:28.119Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:36:28.119Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:38:05.172Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:38:05.174Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:38:05.221Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:38:05.235Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:05.292Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:05.396Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:05.396Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:05.410Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:05.486Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:05.486Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:05.627Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:05.772Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:05.772Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:05.794Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:05.947Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:05.947Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:05.963Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.042Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.042Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:06.057Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.152Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.152Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:06.165Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.236Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.236Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:06.250Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.363Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.363Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:06.383Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.522Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.522Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:38:06.535Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:38:06.608Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:38:06.608Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:40:59.611Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:40:59.612Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:40:59.642Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:40:59.652Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:40:59.677Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:40:59.800Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:40:59.800Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:40:59.815Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:40:59.918Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:40:59.918Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.083Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.239Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.239Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.262Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.386Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.387Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.400Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.514Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.514Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.533Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.643Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.644Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.656Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.783Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.783Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.803Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:00.918Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:00.918Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:00.934Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:01.056Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:01.056Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:01.077Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:01.214Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:01.214Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:41:01.234Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:41:01.373Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:41:01.373Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:49:26.274Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:49:26.538Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:49:26.539Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:51:42.123Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:51:42.125Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:51:42.165Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:51:42.180Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:42.214Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:42.361Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:42.362Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:42.381Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:42.490Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:42.490Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:42.596Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:42.703Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:42.703Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:42.722Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:42.861Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:42.861Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:42.885Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.066Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.066Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.095Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.276Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.276Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.298Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.457Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.457Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.480Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.601Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.602Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.615Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.750Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.750Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.775Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:43.925Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:43.925Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:51:43.944Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:51:44.096Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:51:44.096Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:54:59.872Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:54:59.874Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:54:59.918Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:54:59.937Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:54:59.977Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:00.110Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:00.110Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:00.127Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:00.247Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:00.247Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:00.394Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:00.532Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:00.532Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:00.555Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:00.694Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:00.694Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:00.713Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:00.855Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:00.855Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:00.876Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.012Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.012Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.031Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.167Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.167Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.186Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.328Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.328Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.348Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.485Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.486Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.504Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.653Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.653Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.675Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.816Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.816Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:55:01.837Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:55:01.985Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:55:01.985Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:57:19.997Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:57:20.000Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:57:20.049Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:57:20.064Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.102Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:20.214Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:20.214Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.229Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:20.359Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:20.359Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.467Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:20.606Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:20.606Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.626Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:20.771Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:20.771Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.795Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:20.907Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:20.907Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:20.920Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.009Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.010Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.022Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.112Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.112Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.131Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.270Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.270Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.290Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.426Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.426Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.446Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.560Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.560Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.574Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.677Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.677Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T08:57:21.691Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T08:57:21.789Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T08:57:21.790Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:50:23.396Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:50:23.399Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:50:23.458Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:50:23.477Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:23.526Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:23.708Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:23.709Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:23.732Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:23.890Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:23.890Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.044Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.207Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.207Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.235Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.397Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.397Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.422Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.575Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.575Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.590Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.692Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.692Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.709Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.829Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.829Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.843Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:24.928Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:24.928Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:24.943Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:25.028Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:25.028Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:25.045Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:25.127Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:25.127Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:25.139Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:25.227Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:25.227Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:50:25.242Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:50:25.351Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:50:25.351Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:52:37.962Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:52:37.964Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:52:38.010Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:52:38.025Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.064Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:38.213Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:38.214Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.234Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:38.364Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:38.364Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.479Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:38.613Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:38.614Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.638Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:38.793Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:38.793Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.815Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:38.961Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:38.961Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:38.974Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.098Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.098Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.120Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.276Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.276Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.298Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.446Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.446Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.467Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.616Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.616Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.635Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.781Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.782Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.802Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:39.946Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:39.946Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:52:39.967Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:52:40.101Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:52:40.101Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:55:38.447Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:55:38.448Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:55:38.491Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:55:38.503Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:38.538Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:38.699Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:38.700Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:38.720Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:38.842Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:38.842Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:38.981Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.144Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.144Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.169Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.267Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.267Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.280Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.367Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.367Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.382Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.525Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.525Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.548Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.713Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.713Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.741Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:39.904Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:39.905Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:39.928Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:40.089Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:40.090Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:40.113Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:40.276Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:40.276Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:40.299Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:40.462Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:40.462Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T10:55:40.485Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T10:55:40.639Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T10:55:40.640Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:02:24.805Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:02:24.806Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:02:24.846Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:02:24.861Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:24.898Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.024Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.024Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.037Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.158Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.158Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.314Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.448Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.448Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.468Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.593Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.593Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.605Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.680Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.680Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.694Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.809Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.809Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.829Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:25.962Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:25.963Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:25.983Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:26.129Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:26.129Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:26.149Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:26.280Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:26.280Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:26.293Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:26.407Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:26.407Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:26.427Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:26.564Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:26.564Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:02:26.583Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:02:26.728Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:02:26.729Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:07:52.115Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:07:52.381Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:07:52.381Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:12:36.198Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:12:36.199Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:12:36.230Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:12:36.239Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:36.264Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:36.349Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:36.349Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:36.362Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:36.492Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:36.492Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:36.671Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:36.828Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:36.828Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:36.850Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:36.969Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:36.969Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:36.985Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.081Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.081Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.096Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.227Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.227Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.247Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.339Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.339Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.352Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.438Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.438Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.452Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.559Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.559Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.578Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.722Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.723Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.745Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:37.897Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:37.897Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:12:37.921Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:12:38.079Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:12:38.079Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:13:51.064Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:13:51.066Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:13:51.110Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:13:51.123Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.160Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.274Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.274Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.286Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.396Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.396Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.530Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.633Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.633Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.658Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.782Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.782Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.797Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.872Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.872Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.886Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:51.964Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:51.965Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:51.978Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.092Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.092Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:52.114Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.255Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.255Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:52.268Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.395Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.395Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:52.420Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.595Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.596Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:52.618Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.768Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.768Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:13:52.789Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:13:52.900Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:13:52.900Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:15:52.278Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:15:52.280Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:15:52.322Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:15:52.336Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:52.373Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:52.484Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:52.484Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:52.497Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:52.596Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:52.596Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:52.722Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:52.804Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:52.804Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:52.824Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:52.926Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:52.926Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:52.939Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.046Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.047Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.060Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.158Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.158Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.175Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.346Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.346Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.362Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.468Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.468Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.487Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.659Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.659Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.683Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:53.858Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:53.858Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:53.881Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:54.050Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:54.050Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:15:54.067Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:15:54.219Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:15:54.219Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:24:41.453Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:24:41.455Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:24:41.497Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:24:41.512Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:41.550Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:41.707Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:41.708Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:41.727Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:41.863Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:41.863Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.034Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.148Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.148Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.161Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.263Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.263Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.278Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.350Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.350Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.363Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.466Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.466Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.486Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.595Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.596Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.608Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.713Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.713Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.726Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.804Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.804Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.817Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:42.967Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:42.968Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:42.992Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:43.133Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:43.134Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:43.147Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:43.221Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:43.221Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:24:43.240Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:24:43.317Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:24:43.317Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:25:17.204Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:25:17.206Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:25:17.248Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:25:17.264Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:17.297Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:17.405Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:17.405Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:17.416Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:17.527Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:17.528Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:17.681Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:17.820Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:17.820Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:17.844Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:17.988Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:17.989Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.010Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.132Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.132Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.145Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.234Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.234Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.252Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.337Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.337Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.349Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.421Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.421Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.435Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.571Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.571Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.592Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.699Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.699Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.711Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.814Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.815Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.829Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:18.972Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:18.972Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:25:18.989Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:25:19.108Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:25:19.108Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:48:33.321Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:48:33.486Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:48:33.486Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:50:02.562Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:50:02.563Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:50:02.594Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:50:02.604Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:02.629Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:02.739Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:02.739Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:02.753Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:02.885Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:02.886Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.042Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.136Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.136Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.151Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.228Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.228Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.242Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.333Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.333Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.350Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.440Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.440Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.454Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.541Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.541Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.561Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.695Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.695Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.712Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.845Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.845Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.858Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:03.937Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:03.937Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:03.953Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:04.090Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:04.091Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:04.111Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:04.236Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:04.236Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:04.252Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:04.363Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:04.363Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:50:04.410Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:50:04.509Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:50:04.509Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:56:23.446Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:56:23.448Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:56:23.492Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:56:23.508Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:23.544Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:23.686Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:23.686Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:23.703Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:23.820Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:23.820Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:23.948Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.086Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.087Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.107Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.205Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.205Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.218Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.335Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.335Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.354Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.492Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.492Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.509Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.598Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.598Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.613Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.720Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.720Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.739Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.864Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.864Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.882Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:24.976Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:24.976Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:24.990Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:25.102Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:25.102Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:25.121Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:25.236Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:25.236Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:25.252Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:25.365Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:25.365Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:25.411Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:25.513Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:25.513Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:56:25.549Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:56:25.686Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:56:25.686Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:58:57.705Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:58:57.707Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:58:57.749Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:58:57.764Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:57.801Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:57.949Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:57.949Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:57.963Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.101Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.101Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.273Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.376Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.376Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.390Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.491Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.491Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.512Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.623Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.623Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.642Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.788Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.789Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.810Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:58.965Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:58.965Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:58.987Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.070Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.070Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.082Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.175Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.175Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.190Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.339Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.340Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.360Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.512Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.512Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.535Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.687Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.688Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.717Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:58:59.869Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:58:59.870Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:58:59.915Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:59:00.091Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:59:00.092Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:59:00.127Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:59:00.251Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:59:00.251Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T11:59:00.263Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T11:59:00.335Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T11:59:00.335Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:02:37.001Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:02:37.003Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:02:37.048Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:02:37.063Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.100Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:37.233Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:37.233Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.245Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:37.324Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:37.324Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.463Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:37.589Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:37.589Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.612Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:37.747Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:37.747Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.760Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:37.885Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:37.886Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:37.908Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.058Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.058Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.079Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.226Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.226Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.247Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.392Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.393Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.415Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.534Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.534Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.546Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.617Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.617Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.630Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.729Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.730Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.747Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.873Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.873Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:38.889Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:38.986Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:38.986Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:39.015Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:39.164Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:39.164Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:39.201Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:39.370Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:39.370Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:39.399Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:39.554Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:39.554Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:02:39.574Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:02:39.707Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:02:39.707Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:10:08.228Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:10:08.286Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:10:08.287Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:15:22.116Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:15:22.117Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:15:22.136Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:15:22.142Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.157Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.218Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.218Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.227Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.288Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.288Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.362Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.421Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.421Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.433Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.491Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.491Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.503Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.562Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.562Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.574Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.632Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.632Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.643Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.702Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.702Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.713Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.771Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.771Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.782Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.840Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.840Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.852Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.914Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.914Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.925Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:22.987Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:22.987Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:22.998Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.064Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.064Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:23.084Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.151Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.151Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:23.178Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.238Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.238Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:23.254Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.314Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.314Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:23.324Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.384Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.384Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:15:23.394Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:15:23.454Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:15:23.454Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:19:43.138Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:19:43.139Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:19:43.160Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:19:43.167Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.182Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.243Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.243Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.252Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.311Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.311Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.384Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.443Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.443Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.454Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.513Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.513Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.525Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.582Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.583Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.594Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.652Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.652Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.664Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.722Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.722Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.733Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.792Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.792Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.803Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.861Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.861Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.871Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:43.929Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:43.929Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:43.940Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.004Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.004Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.019Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.084Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.084Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.101Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.170Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.170Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.202Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.265Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.265Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.282Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.342Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.342Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.352Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.410Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.410Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.421Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.479Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.479Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:19:44.492Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:19:44.551Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:19:44.551Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T12:20:58.600Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T12:20:58.601Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:20:58.617Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:20:58.623Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:58.641Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:58.703Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:58.703Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:58.717Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:58.777Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:58.777Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:58.852Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:58.911Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:58.911Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:58.921Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:58.980Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:58.980Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:58.990Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.049Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.049Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.059Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.118Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.118Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.128Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.186Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.186Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.196Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.254Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.254Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.264Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.323Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.323Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.333Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.390Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.391Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.400Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.459Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.459Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.469Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.527Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.527Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.539Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.597Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.598Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.620Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.679Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.679Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.694Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.754Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.754Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.765Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.823Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.823Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.833Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.892Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.892Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T12:20:59.902Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T12:20:59.960Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T12:20:59.960Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T14:34:18.595Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T14:42:37.303Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T14:57:46.092Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T14:57:54.802Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T14:57:54.803Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T14:58:40.750Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T14:58:40.750Z"}
+{"message":"Email is matched","level":"info","timestamp":"2021-08-11T14:59:13.319Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T14:59:13.490Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T14:59:13.491Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T15:13:05.042Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:36:07.505Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:37:03.824Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:38:05.709Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:40:31.080Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:11:09.211Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:11:21.988Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:12:00.680Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:12:00.680Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:12:05.518Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:13:50.196Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:14:00.190Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:14:38.250Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:14:38.251Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.271Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.283Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.376Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.377Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.383Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.459Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.459Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.617Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.617Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.702Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.702Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.782Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.783Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.857Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.857Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:38.930Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:38.930Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.005Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.006Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.080Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.080Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.152Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.152Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.227Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.227Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.301Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.301Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.376Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.376Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.465Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.465Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.547Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.547Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.618Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.618Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.695Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.695Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:14:39.769Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:14:39.769Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:18:51.635Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:18:51.636Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.654Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.663Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:51.738Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:51.738Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.744Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:51.813Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:51.813Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:51.948Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:51.949Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.022Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.022Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.095Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.095Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.166Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.166Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.234Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.234Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.302Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.302Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.370Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.370Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.439Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.439Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.507Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.507Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.576Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.576Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.650Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.650Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.733Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.734Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.810Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.810Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.878Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.878Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:52.947Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:52.947Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:18:53.017Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:18:53.017Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:19:31.193Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:19:31.194Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.213Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.221Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.296Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.296Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.302Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.373Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.373Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.504Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.504Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.573Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.573Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.642Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.643Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.716Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.716Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.793Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.793Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.870Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.870Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:31.948Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:31.948Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.017Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.017Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.084Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.084Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.154Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.154Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.226Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.226Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.310Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.311Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.385Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.385Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.454Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.454Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.524Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.524Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:19:32.594Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:19:32.594Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:20:02.316Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:20:02.317Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.334Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.341Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.414Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.414Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.419Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.487Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.487Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.618Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.618Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.688Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.688Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.755Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.755Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.824Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.825Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.893Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.893Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:02.962Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:02.962Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.030Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.030Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.097Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.098Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.165Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.165Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.234Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.234Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.305Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.306Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.387Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.387Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.465Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.465Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.532Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.532Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.601Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.601Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:03.670Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:03.671Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:20:46.948Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:20:46.949Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:46.966Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:46.972Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.048Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.049Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:47.054Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.120Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.120Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.252Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.252Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.320Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.320Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.389Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.389Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.458Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.459Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.526Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.527Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.594Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.594Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.662Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.662Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.730Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.730Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.797Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.797Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.866Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.866Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:47.937Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:47.937Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:48.017Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:48.017Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:48.091Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:48.091Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:48.159Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:48.159Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:48.227Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:48.227Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:20:48.296Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:20:48.296Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:37:58.808Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:38:53.168Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:38:53.169Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.187Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.194Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.269Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.269Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.275Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.280Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.349Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.349Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.480Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.480Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.550Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.550Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.619Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.619Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.688Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.689Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.758Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.758Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.827Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.827Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.900Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.901Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:53.977Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:53.977Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.057Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.057Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.138Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.138Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.211Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.212Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.295Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.295Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.369Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.369Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.439Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.439Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.511Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.511Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:38:54.582Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:38:54.582Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:39:38.762Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:39:47.195Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:39:47.195Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:40:58.489Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:40:58.490Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.507Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.513Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:58.589Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:58.589Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.595Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.602Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:58.668Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:58.668Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:58.799Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:58.799Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:58.867Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:58.867Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:58.935Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:58.935Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.004Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.005Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.073Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.073Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.144Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.144Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.213Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.213Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.285Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.285Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.357Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.357Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.425Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.425Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.496Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.496Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.573Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.574Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.646Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.647Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.714Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.714Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.782Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.782Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:40:59.851Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:40:59.851Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:41:43.394Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:41:43.395Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.412Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.419Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.495Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.495Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.501Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.506Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.572Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.572Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.701Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.702Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.770Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.770Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.838Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.838Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.906Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.906Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:43.973Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:43.974Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.042Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.042Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.110Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.110Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.177Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.177Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.245Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.245Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.315Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.315Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.387Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.387Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.465Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.465Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.539Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.539Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.606Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.606Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.674Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.674Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:41:44.743Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:41:44.743Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T16:42:29.328Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T16:42:29.329Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.342Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.348Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.422Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.422Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.428Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.433Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.500Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.500Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.631Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.631Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.699Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.699Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.767Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.767Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.835Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.835Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.904Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.904Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:29.975Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:29.975Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.048Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.048Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.119Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.119Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.187Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.188Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.256Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.256Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.329Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.329Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.407Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.407Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.480Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.481Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.549Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.549Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.618Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.618Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:30.688Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:30.688Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:42:56.312Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:42:56.312Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.330Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.339Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.413Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.413Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.419Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.425Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.491Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.491Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.620Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.620Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.689Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.689Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.757Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.757Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.825Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.825Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.892Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.892Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:56.959Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:56.959Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.027Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.027Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.095Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.095Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.163Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.163Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.232Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.232Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.303Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.303Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.380Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.380Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.453Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.453Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.520Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.520Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.589Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.589Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:42:57.658Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:42:57.659Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-11T16:43:29.294Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-11T16:43:29.294Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.307Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.313Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.387Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.387Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.393Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.398Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.465Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.465Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.596Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.597Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.664Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.665Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.731Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.732Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.799Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.800Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.868Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.868Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:29.934Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:29.934Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.002Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.003Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.070Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.070Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.138Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.138Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.206Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.206Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.276Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.276Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.354Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.354Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.428Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.428Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.494Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.495Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.562Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.563Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T16:43:30.631Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T16:43:30.631Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T17:49:44.829Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T17:49:44.830Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.847Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.854Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:44.931Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:44.931Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.936Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.941Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.008Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.008Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.138Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.138Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.205Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.205Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.274Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.274Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.342Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.343Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.411Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.411Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.479Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.479Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.547Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.547Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.615Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.616Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.683Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.683Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.751Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.751Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.822Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.822Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.899Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.899Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:45.971Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:45.972Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:46.039Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:46.039Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:46.107Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:46.107Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-11T17:49:46.176Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-11T17:49:46.176Z"}

@@ -36,7 +36,7 @@ class UserService {
           logger.error("Error while registering the new user");
           return callback(err, null);
         } else {
-          logger.info("User registered successfully!");
+          logger.info("User registered successfully");
         return callback(null, data);
         }
       });
@@ -51,28 +51,21 @@ class UserService {
      * @param {*} callBack 
      */
   userLogin = (userCredentials, callback) => {
-    try {
       userSchema.loginUser(userCredentials, (err, data) => {
+        if (err) {
+          return callback(err, null);
+      }
         //check if the password matches
         if (helper.comparePassword(userCredentials.password, data.password)) {
           //create a token
-          const token = helper.generateToken(userCredentials);
+          let token = helper.generateToken(userCredentials);
           logger.info("Token is generated");
-          return !token
-            ? callback(
-                "Wrong password!",
-                null
-              )
-            : callback(null, token);
-        } else if (error) {
+          return !token ? callback("Wrong password!", null) : callback(null, token);
+        } 
           logger.info("Invalid Credintials");
-          return callback(error, null);
-        }
+          return callback("Invalid Credentials", null);
       });
-    } catch (error) {
-      return callback(error, null);
     }
   };
-}
 
 module.exports = new UserService();

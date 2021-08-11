@@ -2,7 +2,7 @@
  * Execution    : 1. Default node with npm   cmd> npm server.js
  *                2. If nodemon installed    cmd> npm start
  *
- * Purpose      : Describes the schema for user registration & login 
+ * Purpose      : Describes the schema for user registration & login
  *
  * @description
  *
@@ -14,7 +14,7 @@
  * @since       : 28-07-2021
  *********************************************************************/
 
-'use strict';
+"use strict";
 
 const mongoose = require("mongoose");
 // Require logger.js
@@ -37,7 +37,7 @@ const userSchema = mongoose.Schema(
     email: {
       type: String,
       required: true,
-      unique: true
+      unique: true,
     },
     password: {
       type: String,
@@ -64,20 +64,17 @@ userSchema.pre("save", function (next) {
 
 // createing a collection & assigning it to a constant
 // collection name should be always singular
-const userRegister = mongoose.model("RegisterUser", userSchema);
-
-// Exporting schema as a module, so that we can directly access the data inside structure.
-module.exports = mongoose.model("userSchema", userSchema);
+const User = mongoose.model("User", userSchema);
 
 class Registration {
   /**
-     * @description function written to create new user into database 
-     * @param {*} newUser
-     * @param {*} callBack 
-     */
+   * @description function written to create new user into database
+   * @param {*} newUser
+   * @param {*} callBack
+   */
   newUserRegistration = (newUser, callback) => {
     try {
-      const user = new userRegister({
+      const user = new User({
         firstName: newUser.firstName,
         lastName: newUser.lastName,
         email: newUser.email,
@@ -104,23 +101,21 @@ class Registration {
   };
 
   /**
-     * @description checks if email is present or not
-     * @param {*} clientCredentials
-     * @param {*} callBack 
-     */
-  loginUser(clientCredentials, callback) {
-    userRegister.findOne({ email: clientCredentials.email }, (err, data) => {
+   * @description checks if email is present or not
+   * @param {*} clientCredentials
+   * @param {*} callBack
+   */
+  loginUser = (clientCredentials, callback) => {
+    User.findOne({ email: clientCredentials.email }, (err, data) => {
       if (err) {
         logger.error("Error while login");
         return callback(err, null);
-      } else if (!data) {
-        logger.error("User not found with Email");
-        return callback('User not found with email', null);
-      } 
-        logger.info("Email is matched");
-        return callback(null, data); //data = users
+      }
+      return !data
+        ? callback("User not found with email", null)
+        : callback(null, data);
     });
-  }
+  };
 }
 
 module.exports = new Registration();

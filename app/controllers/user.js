@@ -19,7 +19,7 @@ const service = require("../services/user.js");
 // Require logger.js
 const logger = require("../../config/logger");
 
-const { validateInput } = require("../middleware/userValidation.js");
+const validator = require("../middleware/userValidation.js");
 
 class UserController {
   /**
@@ -30,16 +30,6 @@ class UserController {
     */
   registerUser = (req, res) => {
     try {
-      //validation
-      const userInputValidation = validateInput.validate(req.body);
-      if (userInputValidation.error) {
-        logger.error("Invalid Params");
-        res.status(400).send({
-          success: false,
-          message: userInputValidation.error.details[0].message,
-          data: req.body
-        });
-      }
 
       // Object to get user input
       const newUser = {
@@ -49,23 +39,32 @@ class UserController {
         password: req.body.password,
       };
 
+      //validation
+      const userInputValidation = validator.validateInput.validate(newUser);
+      if (userInputValidation.error) {
+        logger.error("Invalid Params");
+        return res.status(400).send({
+          success: false,
+          message: userInputValidation.error.details[0].message,
+        });
+      }
+
+      
+
       // passing the above object as an argument to the registerNewEmployee Method
       service.registerNewUser(newUser, (err, data) => {
-        if (err) {
-          logger.error("Error while registering the new user");
-          res.status(500).send({
-            success: false,
-            message: err.message || "Some error occurred while adding user",
-          });
-        } else {
-          logger.info("User registered successfully!")
-          res.status(201).send({
-            success: true,
-            message: "User registered successfully",
-            data: data,
-          });
-        }
-      });
+        return err
+           ? res.status(500).send({
+               success: false,
+               message:
+                 err.message || 'Some error occurred while adding user',
+             })
+           : res.status(201).send({
+               success: true,
+               message: 'User registered successfully',
+               data: data,
+             });
+       });
     } catch (err) {
       logger.error("Error while registering the new user");
       return res.status(500).send({
@@ -80,17 +79,25 @@ class UserController {
     * @param {*} req 
     * @param {*} res 
     */
-  loginUser(req, res) {
+  loginUser = (req, res) => {
       const userCredentials = {
         email: req.body.email,
-        password: req.body.password,
+        password: req.body.password
       };
+      const userInputValidation = validator.loginValidator.validate(userCredentials);
+      if (userInputValidation.error) {
+        logger.error("Invalid Params");
+        return res.status(400).send({
+          success: false,
+          message: "Invalid Username or Password"
+        });
+      }
 
       // calling a function to login employee
       service.userLogin(userCredentials, (err, data) => {
         if (err) {
           logger.error("Error while authenticating the user");
-          res.status(400).send({
+          return res.status(404).send({
             success: false,
             message: err,
           });

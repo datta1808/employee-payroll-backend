@@ -310,3 +310,376 @@
 {"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T03:25:33.487Z"}
 {"message":"User not found with Email","level":"error","timestamp":"2021-08-10T03:32:15.191Z"}
 {"message":"User not found with Email","level":"error","timestamp":"2021-08-10T05:33:44.708Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.853Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.853Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.854Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.880Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.882Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.894Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:41.895Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.903Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:11:41.913Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.023Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:11:42.025Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.343Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.345Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.346Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.346Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.357Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.359Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.367Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T07:12:56.375Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T07:12:56.506Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:06:28.668Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:09:21.429Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T10:09:58.771Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-10T10:09:58.771Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:09:58.791Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-10T10:09:58.862Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:11:31.059Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:17:24.617Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:17:47.037Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:18:18.318Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:28:40.793Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:28:40.837Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:30:20.637Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T10:32:58.303Z"}
+{"message":"User not found with Email","level":"error","timestamp":"2021-08-10T10:43:35.290Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:47:51.851Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:51:12.326Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:51:44.666Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:52:55.938Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T10:54:29.212Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:22:37.066Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:22:37.085Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:22:37.169Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:25:30.815Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:25:30.839Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:25:30.922Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:26:36.455Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:26:36.476Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:26:36.560Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:27:43.692Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:27:43.711Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:27:43.795Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:29:30.728Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:29:30.746Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:29:30.830Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:32:13.587Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:32:13.606Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:32:13.689Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:33:46.968Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:33:56.987Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:38:20.949Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:38:20.975Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:38:21.098Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:39:53.070Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:39:53.095Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:39:53.231Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:41:22.509Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:41:22.547Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:41:22.743Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:41:22.756Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:42:21.065Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:42:21.091Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:42:21.202Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:44:31.884Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T11:44:31.910Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T11:44:32.083Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:48:18.971Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:48:19.020Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:56:53.139Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:56:53.186Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:59:07.465Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T14:59:07.510Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-10T15:07:06.210Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:14:11.810Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:14:11.855Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:15:30.756Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:15:30.795Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:21:05.350Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:21:05.377Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:53:42.407Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T15:53:42.433Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:00:04.742Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:00:04.790Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:40:43.289Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:40:43.310Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:41:22.089Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:41:22.109Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:42:33.303Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:42:33.321Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:45:03.279Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:45:03.297Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:46:04.320Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:46:04.338Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:48:33.729Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:48:33.748Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:52:25.624Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:52:25.646Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:53:14.348Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:53:14.368Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:54:03.742Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:54:03.763Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:55:11.952Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:55:11.970Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:56:59.001Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:56:59.021Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:57:25.651Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T16:57:25.670Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:15:00.161Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:15:00.185Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:23:34.106Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:23:34.137Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:26:33.176Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-10T18:26:33.200Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:03:38.168Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:03:38.220Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:15.238Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:15.267Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:38.441Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:07:38.482Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:08:17.025Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:08:17.076Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:09:49.173Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:09:49.173Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:09:49.220Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:09:49.237Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:11:50.286Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:11:50.313Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:26:03.620Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:26:03.620Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:26:03.659Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:26:03.677Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T02:31:22.801Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T02:31:22.801Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:31:22.828Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:31:22.839Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:34:51.901Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T02:34:51.915Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T02:52:32.210Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T02:52:51.470Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T04:10:06.938Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T04:10:06.947Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T05:29:24.436Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T05:29:24.437Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:29:24.461Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:29:24.469Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:30:28.819Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T05:30:28.827Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:05:12.752Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:05:12.752Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:05:12.797Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:05:12.813Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:06:08.989Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:06:08.990Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:06:09.035Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:06:09.050Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:08:57.483Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:08:57.483Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:08:57.524Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:08:57.537Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:10:48.249Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:10:48.250Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:10:48.291Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:10:48.305Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:14:16.494Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:14:16.494Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:14:16.526Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:14:16.538Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:22:08.407Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:22:08.407Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:08.434Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:08.445Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:22:40.891Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:22:40.891Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:40.921Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:22:40.929Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:24:34.667Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:24:34.667Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:24:34.692Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:24:34.700Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:33:18.883Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:33:18.883Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:33:18.908Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:33:18.917Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:34:09.862Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:34:09.863Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:34:09.895Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:34:09.906Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:36:26.712Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:36:26.712Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:36:26.753Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:36:26.767Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:38:05.173Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:38:05.174Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:38:05.222Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:38:05.235Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:40:59.612Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:40:59.612Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:40:59.642Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:40:59.652Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:51:42.124Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:51:42.125Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:51:42.166Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:51:42.180Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:54:59.874Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:54:59.874Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:54:59.918Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:54:59.937Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T08:57:19.999Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T08:57:20.000Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:57:20.049Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T08:57:20.064Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:50:23.398Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:50:23.399Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:50:23.458Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:50:23.477Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:52:37.963Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:52:37.964Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:52:38.010Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:52:38.026Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T10:55:38.448Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T10:55:38.449Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:55:38.492Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T10:55:38.503Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:02:24.806Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:02:24.807Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:02:24.846Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:02:24.861Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:12:36.199Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:12:36.199Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:12:36.230Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:12:36.240Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:13:51.066Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:13:51.066Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:13:51.110Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:13:51.123Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:15:52.280Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:15:52.281Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:15:52.322Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:15:52.336Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:24:41.454Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:24:41.455Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:24:41.498Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:24:41.513Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:25:17.206Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:25:17.206Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:25:17.249Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:25:17.264Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:50:02.563Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:50:02.564Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:50:02.594Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:50:02.604Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:56:23.448Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:56:23.448Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:56:23.492Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:56:23.508Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T11:58:57.707Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T11:58:57.707Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:58:57.749Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T11:58:57.764Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:02:37.003Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:02:37.003Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:02:37.048Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:02:37.064Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:15:22.117Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:15:22.117Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:15:22.137Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:15:22.143Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T12:19:43.139Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T12:19:43.139Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:19:43.160Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:19:43.167Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:20:58.617Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T12:20:58.623Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T14:34:18.596Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T14:42:37.307Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T14:57:46.099Z"}
+{"message":"User not found with email","level":"error","timestamp":"2021-08-11T15:13:05.043Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:36:07.505Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:37:03.824Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:38:05.710Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T15:40:31.080Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:11:09.211Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:11:21.988Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:12:05.518Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:13:50.196Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:14:00.190Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:14:38.250Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:14:38.251Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.271Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.283Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:14:38.384Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:18:51.636Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:18:51.636Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.654Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.663Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:18:51.744Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:19:31.194Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:19:31.194Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.213Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.221Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:19:31.302Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:20:02.317Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:20:02.317Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.334Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.341Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:02.420Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:20:46.949Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:20:46.949Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:46.966Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:46.972Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:20:47.054Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:37:58.808Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:38:53.169Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:38:53.169Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.187Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.194Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.275Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:38:53.280Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-11T16:39:38.762Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:40:58.490Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:40:58.490Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.507Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.514Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.595Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:40:58.602Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:41:43.394Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:41:43.395Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.412Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.420Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.501Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:41:43.506Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.342Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.348Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.428Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:29.433Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T16:42:56.312Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T16:42:56.312Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.331Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.339Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.419Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:42:56.425Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.307Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.314Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.393Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T16:43:29.398Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-11T17:49:44.830Z"}
+{"message":"Error while registering the new user","level":"error","timestamp":"2021-08-11T17:49:44.830Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.847Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.854Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.936Z"}
+{"message":"Invalid Params","level":"error","timestamp":"2021-08-11T17:49:44.941Z"}
