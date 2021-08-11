@@ -1,7 +1,28 @@
+/*********************************************************************
+ * Execution    : 1. Default node with npm   cmd> npm server.js
+ *                2. If nodemon installed    cmd> npm start
+ *
+ * Purpose      : Encapsulates the applications business logic
+ *
+ * @description
+ *
+ * @file        : models/employeePayroll.js
+ * @overview    : Provides schema for database and performs CRUD operations
+ * @module      : Employee
+ * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
+ * @version     : _ _ _
+ * @since       : 28-07-2021
+ *********************************************************************/
+
+
 const employeeModel = require("../models/employeePayroll");
 
 // Service Class
 class Service {
+  /**
+     * @description function to register the employees
+     * @param {*} newEmployee 
+     */
   async addNewEmployee(newEmployee) {
     try {
       // method to create new employee object with given data
@@ -12,6 +33,9 @@ class Service {
     }
   }
 
+  /**
+     * @description This function will fetch data from the database
+     */
   getAllEmp = () => {
     //method to get all the employees
     return employeeModel
@@ -24,6 +48,10 @@ class Service {
       });
   };
 
+  /**
+     * @description finding employee by id
+     * @param {*} empId 
+     */
   async getOne(empId) {
     try {
       if (!empId.empId) {
@@ -38,6 +66,10 @@ class Service {
     }
   }
 
+  /**
+     * @description updating employee by id
+     * @param {*} empId 
+     */
   async update(empId, empData) {
     try {
       //calling method to update employee
@@ -47,7 +79,11 @@ class Service {
     }
   }
 
-  // method to delete employee using promises
+  /**
+     * @description delete employee by id
+     * @param {*} empId 
+     * @param {*} callback 
+     */
   deleteEmpData = (empId, callback) => {
     try {
       employeeModel.deleteById(empId, (error, data) => {
