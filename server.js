@@ -1,15 +1,13 @@
 require("dotenv").config();
 
 const express = require("express");
+var cors = require('cors')
 
 // Configuring the database
 const dbConfig = require("./config/database.config.js");
 
 //Importing swagger-UI
 const swaggerUI = require('swagger-ui-express');
-
-// // Require logger.js
-// const logger = require('./config/logger.config');
 
 //Importing swagger json file for using swagger docs
 const swaggerDocs = require('./swagger/swagger.json');
@@ -26,6 +24,9 @@ app.use(express.json());
 //using swagger UI
 app.use('/swagger', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
 
+app.use(cors())
+
+
 //Connecting to the database
 dbConfig.databaseConnection();
 
@@ -41,7 +42,7 @@ require("./app/routes/routes.js")(app);
 
 // listen for requests
 app.listen(process.env.PORT, () => {
-  console.log("Server is listening on port 3000");
+  console.log(`Server is listening on port ${process.env.PORT}`);
   // Log a message
   // logger.info('Server running at port number 3000');
 });

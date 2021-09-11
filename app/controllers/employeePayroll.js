@@ -39,7 +39,7 @@ class EmployeeController {
 
       //Object for the new employee data
       const newEmployee = {
-        name: req.body.name,
+        fullName: req.body.fullName,
         email: req.body.email,
         password: req.body.password,
         phoneNumber: req.body.phoneNumber,
@@ -119,7 +119,7 @@ class EmployeeController {
 
       //employee updated details from client
       const updatedDetails = {
-        name: req.body.name,
+        fullName: req.body.fullName,
         email: req.body.email,
         password: req.body.password,
         phoneNumber: req.body.phoneNumber,

@@ -36,7 +36,7 @@ class Service {
   /**
      * @description This function will fetch data from the database
      */
-  getAllEmp = () => {
+  getAllEmp() {
     //method to get all the employees
     return employeeModel
       .findAll()

@@ -1,4 +1,4 @@
-const userController = require("../controllers/user");
+const userController = require('../controllers/user');
 
 const employeeController = require('../controllers/employeePayroll');
 
@@ -8,10 +8,10 @@ const helper = require('../middleware/helper');
 module.exports = (app) => {
 
   // register new user
-  app.post("/register", userController.registerUser);
+  app.post('/register', userController.registerUser);
 
   // user login
-  app.post("/login", userController.loginUser);
+  app.post('/login', userController.loginUser);
 
   // To create a new employee
   app.post('/addEmployee', helper.verifyToken, employeeController.addEmployee);

@@ -11,6 +11,7 @@ chai.use(chaiHTTP);
  * @description Test cases for registering new user.
  *              Contains both positive and negative cases.
  */
+// eslint-disable-next-line no-undef
 describe("POST - User Registration", () => {
   it("givenNewValidData_whenAdded_shouldRehisterUser", (done) => {
     const userDetails = userInput.registerUserPass;

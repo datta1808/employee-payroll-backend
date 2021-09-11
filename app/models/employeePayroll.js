@@ -14,7 +14,7 @@
  * @since       : 28-07-2021
  *********************************************************************/
 
-'use strict';
+"use strict";
 
 const mongoose = require("mongoose");
 
@@ -27,7 +27,7 @@ const saltRounds = 10;
 const employeeSchema = mongoose.Schema(
   //employeeDataSchema
   {
-    name: {
+    fullName: {
       type: String,
       required: true,
     },
@@ -35,10 +35,6 @@ const employeeSchema = mongoose.Schema(
       type: String,
       required: true,
       unique: true,
-    },
-    password: {
-      type: String,
-      required: true,
     },
     phoneNumber: {
       type: String,
@@ -79,17 +75,16 @@ employeeSchema.pre("save", function (next) {
 const employeeData = mongoose.model("Employee", employeeSchema);
 
 class Employee {
-  /** 
-  * @description funnction to register employee in the database
-  * @param {*} newEmployee 
-  * @returns saved data or if error returns error 
-  */
+  /**
+   * @description funnction to register employee in the database
+   * @param {*} newEmployee
+   * @returns saved data or if error returns error
+   */
   async createEmployee(newEmployee) {
     try {
       const employee = new employeeData({
-        name: newEmployee.name,
+        fullName: newEmployee.fullName,
         email: newEmployee.email,
-        password: newEmployee.password,
         phoneNumber: newEmployee.phoneNumber,
         department: newEmployee.department,
         salary: newEmployee.salary,
@@ -105,9 +100,9 @@ class Employee {
   }
 
   /**
-     * @description function to get all employees from database 
-     * @returns retrieved employees or if error returns error
-     */
+   * @description function to get all employees from database
+   * @returns retrieved employees or if error returns error
+   */
   findAll = () => {
     return new Promise((resolve, reject) => {
       employeeData
@@ -122,10 +117,10 @@ class Employee {
   };
 
   /**
-     * @description function written to get employees by Id into database 
-     * @param {*} empId
-     * @returns employee of particular Id or if any error return error
-     */
+   * @description function written to get employees by Id into database
+   * @param {*} empId
+   * @returns employee of particular Id or if any error return error
+   */
   async getDataById(empId) {
     try {
       return await employeeData.findById(empId);
@@ -134,18 +129,18 @@ class Employee {
     }
   }
 
-/**
-     * @description function written to update employees by Id into database 
-     * @param {*} empId
-     * @param {*} empData
-     * @returns employee\ of particular Id or if any error return error
-     */
+  /**
+   * @description function written to update employees by Id into database
+   * @param {*} empId
+   * @param {*} empData
+   * @returns employee\ of particular Id or if any error return error
+   */
   async updateEmpById(empId, empData) {
     try {
       return await employeeData.findByIdAndUpdate(
         empId.empId,
         {
-          name: empData.name,
+          fullName: empData.fullName,
           email: empData.email,
           password: empData.password,
           phoneNumber: empData.phoneNumber,
@@ -161,15 +156,15 @@ class Employee {
   }
 
   /**
-     * @description function to delete employee by id
-     * @param {*} empId 
-     * @returns data else if error returns error
-     */
-   deleteById = (empId, callback) =>{
-    employeeData.findByIdAndRemove(empId,(error, data)=>{
-        return((error)? (callback(error, null)):(callback(null, data)));
-    })
-}
+   * @description function to delete employee by id
+   * @param {*} empId
+   * @returns data else if error returns error
+   */
+  deleteById = (empId, callback) => {
+    employeeData.findByIdAndRemove(empId, (error, data) => {
+      return error ? callback(error, null) : callback(null, data);
+    });
+  };
 }
 //exporting class
 module.exports = new Employee();
